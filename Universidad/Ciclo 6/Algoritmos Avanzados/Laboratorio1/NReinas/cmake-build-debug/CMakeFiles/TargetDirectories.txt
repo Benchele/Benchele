@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/zClion/NReinas/cmake-build-debug/CMakeFiles/NReinas.dir
+C:/Users/Lenovo/Documents/zClion/NReinas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/zClion/NReinas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
