@@ -1,0 +1,1672 @@
+LIBRERIA:Programacion_2 
+AVENIDA_UNIVERSITARIA_8100_SAN_MIGUEL 
+RESULTADO DE LAS VENTAS REALIZADAS
+
+TOTAL VENDIDO: 64018.50   CANTIDAD TOTAL DE LIBROS VENDIDOS: 267 
+
+LIBRO NO: 1 
+CODIGO:    IIM5175   TITULO: Diamantes_y_pedernales                                        AUTOR: Jose_Maria_Arguedas                        PRECIO:      69.02 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   46582367   NOMBRE: Justino_Forzani_Ericka_Victoria                             CALIFICACION:         50 
+No. 2   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         14 
+
+LIBRO NO: 2 
+CODIGO:    YDK7687   TITULO: El_otonio_del_patriarca                                       AUTOR: Gabriel_Garcia_Marquez                     PRECIO:     368.04 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 3 
+CODIGO:    ZOY6470   TITULO: El_viejo_y_el_mar                                             AUTOR: Hernest_Hemingway                          PRECIO:      88.69 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         73 
+No. 2   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         34 
+
+LIBRO NO: 4 
+CODIGO:    ETZ8565   TITULO: Confesiones_de_una_mascara                                    AUTOR: Yukio_Mishima                              PRECIO:     339.31 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         33 
+
+LIBRO NO: 5 
+CODIGO:    LQL0880   TITULO: Contra_el_fascismo                                            AUTOR: Umberto_Eco                                PRECIO:     149.08 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 6 
+CODIGO:    VFZ9435   TITULO: El_olor_de_la_Edad_Media                                      AUTOR: Javier_Traite                              PRECIO:     302.84 
+LIBROS VENDIDOS:          5   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   45834351   NOMBRE: Santisteban_Meza_Rosa                                       CALIFICACION:         90 
+No. 2   DNI:   48053960   NOMBRE: Corrales_Tsukazan_Irma_Lourdes                              CALIFICACION:         19 
+No. 3   DNI:   49516360   NOMBRE: Mendoza_Egusquiza_Rosario                                   CALIFICACION:         72 
+No. 4   DNI:   51235238   NOMBRE: Prado_Falcon_Edgar_Richard                                  CALIFICACION:         64 
+No. 5   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         54 
+
+LIBRO NO: 7 
+CODIGO:    SFZ1256   TITULO: La_Iliada                                                     AUTOR: Homero                                     PRECIO:     123.04 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   45181396   NOMBRE: Cerna_Durand_Martin                                         CALIFICACION:         24 
+No. 2   DNI:   85870289   NOMBRE: Paredes_Patino_Christian                                    CALIFICACION:         24 
+
+LIBRO NO: 8 
+CODIGO:    EDQ0577   TITULO: Las_aventuras_de_Pinocho                                      AUTOR: Carlo_Collodi                              PRECIO:      82.97 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         91 
+
+LIBRO NO: 9 
+CODIGO:    YJI3961   TITULO: Cien_anios_de_soledad                                         AUTOR: Gabriel_Garcia_Marquez                     PRECIO:      48.12 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         91 
+No. 2   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:         31 
+
+LIBRO NO: 10 
+CODIGO:    VPN5351   TITULO: El_Amante                                                     AUTOR: Ana_Maria_Moix                             PRECIO:      33.79 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         67 
+
+LIBRO NO: 11 
+CODIGO:    PVS2464   TITULO: Sapiens                                                       AUTOR: Yuval_Noah_Harari                          PRECIO:     307.68 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 12 
+CODIGO:    DVL7760   TITULO: Falco                                                         AUTOR: Arturo_Perez-Reverte                       PRECIO:      27.20 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         67 
+No. 2   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         34 
+
+LIBRO NO: 13 
+CODIGO:    QRH6838   TITULO: Las_cronicas_de_Narnia                                        AUTOR: C._S._Lewis                                PRECIO:     332.14 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         14 
+No. 2   DNI:   65071478   NOMBRE: Arroyo_Gordillo_Maria_Heli                                  CALIFICACION:         26 
+No. 3   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         10 
+
+LIBRO NO: 14 
+CODIGO:    LDL2628   TITULO: Harry_Potter_y_el_caliz_de_fuego_(Harry_Potter_4)             AUTOR: J.K._Rowling                               PRECIO:     326.78 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         90 
+
+LIBRO NO: 15 
+CODIGO:    SBU9053   TITULO: Tierra_arrasada                                               AUTOR: Alfredo_Gonzalez_Ruibal                    PRECIO:     300.68 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   36699613   NOMBRE: Mejia_De_La_Haza_Francisco_Edgar                            CALIFICACION:          2 
+
+LIBRO NO: 16 
+CODIGO:    ZJM1292   TITULO: El_suenio_del_celta                                           AUTOR: Mario_Vargas_Llosa                         PRECIO:     134.67 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 17 
+CODIGO:    CRA4157   TITULO: El_forastero_misterioso                                       AUTOR: Mark_Twain                                 PRECIO:     256.52 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 18 
+CODIGO:    RII8346   TITULO: Las_dos_Dianas                                                AUTOR: Alejandro_Dumas                            PRECIO:     158.65 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   66747161   NOMBRE: Vasquez_Paz_Alex_Martin                                     CALIFICACION:         92 
+
+LIBRO NO: 19 
+CODIGO:    JBR9372   TITULO: El_maestro_de_esgrima                                         AUTOR: Arturo_Perez-Reverte                       PRECIO:     191.74 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         36 
+No. 2   DNI:   33583840   NOMBRE: Villa_Yallico_Tatiana_Nancy                                 CALIFICACION:         10 
+
+LIBRO NO: 20 
+CODIGO:    NEO9165   TITULO: Emperador_de_Roma                                             AUTOR: Mary_Beard                                 PRECIO:      41.71 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   88080249   NOMBRE: Coronel_Chumpitaz_Heli                                      CALIFICACION:         92 
+
+LIBRO NO: 21 
+CODIGO:    TBZ2657   TITULO: Olalla                                                        AUTOR: Robert_Louis_Stevenson                     PRECIO:     259.74 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         11 
+No. 2   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         93 
+
+LIBRO NO: 22 
+CODIGO:    IBP7411   TITULO: Nunca                                                         AUTOR: Ken_Follett                                PRECIO:     109.00 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   54393647   NOMBRE: Reyes_Tang_Edward                                           CALIFICACION:         61 
+
+LIBRO NO: 23 
+CODIGO:    GPH1575   TITULO: La_gran_aventura_de_los_griegos                               AUTOR: Javier_Negrete                             PRECIO:     149.25 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 24 
+CODIGO:    XIU2628   TITULO: Cabo_Trafalgar                                                AUTOR: Arturo_Perez-Reverte                       PRECIO:      87.23 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   86898639   NOMBRE: Pasquel_Quio_Surami_Janet                                   CALIFICACION:          7 
+No. 2   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         29 
+No. 3   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         50 
+
+LIBRO NO: 25 
+CODIGO:    DDT0017   TITULO: Viaje_al_fin_de_la_noche                                      AUTOR: Louis_Ferdinand_Celine                     PRECIO:     169.16 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 26 
+CODIGO:    ILG7766   TITULO: Iliada                                                        AUTOR: Homero                                     PRECIO:     136.58 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         70 
+
+LIBRO NO: 27 
+CODIGO:    HGQ0131   TITULO: Odisea                                                        AUTOR: Homero                                     PRECIO:     254.38 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         28 
+
+LIBRO NO: 28 
+CODIGO:    HLB4548   TITULO: Frankenstein_o_el_moderno_Prometeo                            AUTOR: Mary_W._Shelley                            PRECIO:      38.12 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 29 
+CODIGO:    SQB7146   TITULO: Cronica_de_una_muerte_anunciada                               AUTOR: Gabriel_Garcia_Marquez                     PRECIO:     159.23 
+LIBROS VENDIDOS:          3   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         76 
+No. 2   DNI:   88080249   NOMBRE: Coronel_Chumpitaz_Heli                                      CALIFICACION:         43 
+No. 3   DNI:   48053960   NOMBRE: Corrales_Tsukazan_Irma_Lourdes                              CALIFICACION:         87 
+
+LIBRO NO: 30 
+CODIGO:    VHK9148   TITULO: Historia_y_cronologia_del_mundo                               AUTOR: Isaac_Asimov                               PRECIO:     313.39 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 31 
+CODIGO:    MVU0233   TITULO: La_conspiracioni                                              AUTOR: Dan_Brown                                  PRECIO:     293.09 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:          5 
+
+LIBRO NO: 32 
+CODIGO:    KWL0415   TITULO: 1923                                                          AUTOR: Roberto_Villa_Garcia                       PRECIO:     351.38 
+LIBROS VENDIDOS:          4   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         62 
+No. 2   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         55 
+No. 3   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         33 
+No. 4   DNI:   45002711   NOMBRE: Landeo_Sueldo_Adolfo                                        CALIFICACION:         47 
+
+LIBRO NO: 33 
+CODIGO:    WPU8819   TITULO: Tristam_Shandy                                                AUTOR: Laurence_Sterne                            PRECIO:     305.36 
+LIBROS VENDIDOS:          4   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         15 
+No. 2   DNI:   33583840   NOMBRE: Villa_Yallico_Tatiana_Nancy                                 CALIFICACION:          9 
+No. 3   DNI:   65071478   NOMBRE: Arroyo_Gordillo_Maria_Heli                                  CALIFICACION:         16 
+No. 4   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         40 
+
+LIBRO NO: 34 
+CODIGO:    JTX5687   TITULO: Veinte_mil_leguas_de_viaje_submarino                          AUTOR: Julio_Verne                                PRECIO:     300.73 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 35 
+CODIGO:    HCT8192   TITULO: Diario                                                        AUTOR: Ana_FranK                                  PRECIO:     197.59 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         10 
+
+LIBRO NO: 36 
+CODIGO:    OMN0252   TITULO: Los_hermanos_Karamazov                                        AUTOR: Fiodor_Dostoyevski                         PRECIO:     231.02 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 37 
+CODIGO:    CKC4095   TITULO: El_Gran_Gatsby                                                AUTOR: F._Scott_Fitzgerald                        PRECIO:     126.76 
+LIBROS VENDIDOS:          4   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:          3 
+No. 2   DNI:   38724322   NOMBRE: Inga_Flores_Cesar_Adolfo                                    CALIFICACION:          6 
+No. 3   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         91 
+No. 4   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         32 
+
+LIBRO NO: 38 
+CODIGO:    JLQ6546   TITULO: El_retorno_del_Rey                                            AUTOR: J.R.R.Tolkien                              PRECIO:     164.98 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         31 
+No. 2   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         50 
+No. 3   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         22 
+
+LIBRO NO: 39 
+CODIGO:    MSW8176   TITULO: Todo_se_desmorona                                             AUTOR: Chinua_Achebe                              PRECIO:      65.85 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 40 
+CODIGO:    TDY0497   TITULO: La_chica_del_tren                                             AUTOR: Paula_Hawkins                              PRECIO:     309.91 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 41 
+CODIGO:    NBL8415   TITULO: Espania_con_honra                                             AUTOR: Daniel_Aquillue                            PRECIO:      86.51 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   49516360   NOMBRE: Mendoza_Egusquiza_Rosario                                   CALIFICACION:         44 
+No. 2   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         23 
+No. 3   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         57 
+
+LIBRO NO: 42 
+CODIGO:    IMC3155   TITULO: Los_pilares_de_la_tierra                                      AUTOR: Ken_Follett                                PRECIO:     221.79 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         87 
+
+LIBRO NO: 43 
+CODIGO:    FWK6327   TITULO: El_doble                                                      AUTOR: Fiodor_Dostoyevski                         PRECIO:     175.82 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   85870289   NOMBRE: Paredes_Patino_Christian                                    CALIFICACION:          7 
+
+LIBRO NO: 44 
+CODIGO:    GQC1814   TITULO: Apocalipticos_e_integrados                                    AUTOR: Umberto_Eco                                PRECIO:     158.38 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         32 
+
+LIBRO NO: 45 
+CODIGO:    PRD1648   TITULO: Relato_de_un_naufrago                                         AUTOR: Gabriel_Garcia_Marquez                     PRECIO:     284.43 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 46 
+CODIGO:    SBF7018   TITULO: El_handicap_de_la_vida                                        AUTOR: Rudyard_Kipling                            PRECIO:     186.36 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 47 
+CODIGO:    LVP3355   TITULO: Las_aventuras_de_Sherlock_Holmes                              AUTOR: Arthur_Conan_Doyle                         PRECIO:     152.03 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 48 
+CODIGO:    FBO8724   TITULO: El_pendulo_de_Foucault                                        AUTOR: Umberto_Eco                                PRECIO:      78.33 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   58717040   NOMBRE: Cabrera_Canales_Guillermo_Edric                             CALIFICACION:         52 
+
+LIBRO NO: 49 
+CODIGO:    WCZ0845   TITULO: El_cementerio_de_Praga                                        AUTOR: Umberto_Eco                                PRECIO:     109.63 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   38724322   NOMBRE: Inga_Flores_Cesar_Adolfo                                    CALIFICACION:         38 
+No. 2   DNI:   49516360   NOMBRE: Mendoza_Egusquiza_Rosario                                   CALIFICACION:         47 
+
+LIBRO NO: 50 
+CODIGO:    WOF6634   TITULO: El_problema_final                                             AUTOR: Arturo_Perez-Reverte                       PRECIO:     269.66 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   15129661   NOMBRE: Valverde_Flores_Irma_Ydali                                  CALIFICACION:         27 
+No. 2   DNI:   65071478   NOMBRE: Arroyo_Gordillo_Maria_Heli                                  CALIFICACION:          6 
+
+LIBRO NO: 51 
+CODIGO:    CUV7849   TITULO: Ficciones                                                     AUTOR: Jorge_Luis_Borges                          PRECIO:     365.83 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 52 
+CODIGO:    VMW6915   TITULO: Travesuras_de_la_ninia_mala                                   AUTOR: Mario_Vargas_Llosa                         PRECIO:     136.85 
+LIBROS VENDIDOS:          4   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         71 
+No. 2   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         46 
+No. 3   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         86 
+No. 4   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         60 
+
+LIBRO NO: 53 
+CODIGO:    MBQ9495   TITULO: Tormenta_de_espadas                                           AUTOR: George_R.R.Martin                          PRECIO:     179.01 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:          4 
+No. 2   DNI:   46582367   NOMBRE: Justino_Forzani_Ericka_Victoria                             CALIFICACION:         87 
+No. 3   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:          4 
+
+LIBRO NO: 54 
+CODIGO:    LQA8555   TITULO: Rimas_y_leyendas                                              AUTOR: Gustavo_Adolfo_Becquer                     PRECIO:     347.88 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   49516360   NOMBRE: Mendoza_Egusquiza_Rosario                                   CALIFICACION:         22 
+
+LIBRO NO: 55 
+CODIGO:    IMK4892   TITULO: La_tabla_de_Flandes                                           AUTOR: Arturo_Perez-Reverte                       PRECIO:      62.98 
+LIBROS VENDIDOS:          3   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         67 
+No. 2   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         26 
+No. 3   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         90 
+
+LIBRO NO: 56 
+CODIGO:    QCA9584   TITULO: Dr._Jekyll_y_Mr._Hyde                                         AUTOR: Robert_Louis_Stevenson                     PRECIO:     212.16 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         68 
+No. 2   DNI:   15129661   NOMBRE: Valverde_Flores_Irma_Ydali                                  CALIFICACION:         81 
+
+LIBRO NO: 57 
+CODIGO:    XJT3661   TITULO: Las_aventuras_de_Tom_Sawye                                    AUTOR: Mark_Twain                                 PRECIO:     102.81 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         91 
+
+LIBRO NO: 58 
+CODIGO:    THT4126   TITULO: Harry_Potter_y_las_reliquias_de_la_muerte_(Harry_Potter_7)    AUTOR: J._K._Rowling                              PRECIO:     165.15 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 59 
+CODIGO:    PZP7176   TITULO: La_caida_de_los_gigantes                                      AUTOR: Ken_Follett                                PRECIO:     132.91 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         79 
+No. 2   DNI:   88080249   NOMBRE: Coronel_Chumpitaz_Heli                                      CALIFICACION:         20 
+
+LIBRO NO: 60 
+CODIGO:    UQL8643   TITULO: Dracula                                                       AUTOR: Bram_Stoker                                PRECIO:     143.17 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         17 
+
+LIBRO NO: 61 
+CODIGO:    RLQ7170   TITULO: El_tango_de_la_guardia_vieja                                  AUTOR: Arturo_Perez-Reverte                       PRECIO:     295.67 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         97 
+No. 2   DNI:   33583840   NOMBRE: Villa_Yallico_Tatiana_Nancy                                 CALIFICACION:         74 
+
+LIBRO NO: 62 
+CODIGO:    KTA8754   TITULO: Ulises                                                        AUTOR: James_Joyce                                PRECIO:     168.82 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         43 
+No. 2   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:         32 
+
+LIBRO NO: 63 
+CODIGO:    TOJ1764   TITULO: Ensayo_sobre_la_ceguera                                       AUTOR: Jose_Saramago                              PRECIO:      84.18 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         73 
+No. 2   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         25 
+
+LIBRO NO: 64 
+CODIGO:    GWE4133   TITULO: El_gato_negro_y_otros_cuentos                                 AUTOR: Edgar_Allan_Poe                            PRECIO:     256.69 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:          5 
+
+LIBRO NO: 65 
+CODIGO:    ZPD6557   TITULO: El_ruido_y_la_furia                                           AUTOR: William_Faulkner                           PRECIO:     324.55 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         43 
+
+LIBRO NO: 66 
+CODIGO:    IUG2294   TITULO: El_proceso                                                    AUTOR: Franz_Kafka                                PRECIO:      44.64 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         55 
+No. 2   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:          8 
+
+LIBRO NO: 67 
+CODIGO:    WGA2754   TITULO: El_club_Dumas                                                 AUTOR: Arturo_Perez-Reverte                       PRECIO:      64.02 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:          1 
+
+LIBRO NO: 68 
+CODIGO:    YJE2497   TITULO: Progreso_del_peregrino                                        AUTOR: John_Bunyan                                PRECIO:     329.79 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 69 
+CODIGO:    XCC4070   TITULO: El_italiano                                                   AUTOR: Arturo_Perez-Reverte                       PRECIO:     242.41 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:         48 
+No. 2   DNI:   45181396   NOMBRE: Cerna_Durand_Martin                                         CALIFICACION:          3 
+
+LIBRO NO: 70 
+CODIGO:    OBD2849   TITULO: El_invierno_del_mundo                                         AUTOR: Ken_Follett                                PRECIO:     170.91 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   27109544   NOMBRE: Henriquez_Espino_Beatriz                                    CALIFICACION:         58 
+
+LIBRO NO: 71 
+CODIGO:    UCJ9882   TITULO: El_reino_de_este_mundo                                        AUTOR: Alejo_Carpentier                           PRECIO:     250.08 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   54393647   NOMBRE: Reyes_Tang_Edward                                           CALIFICACION:         90 
+No. 2   DNI:   45181396   NOMBRE: Cerna_Durand_Martin                                         CALIFICACION:          9 
+
+LIBRO NO: 72 
+CODIGO:    QVU3526   TITULO: Vidas_intrepidas                                              AUTOR: Julio_Albi_de_la_Cuesta                    PRECIO:      96.25 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 73 
+CODIGO:    VTY5195   TITULO: Un_asunto_de_honor                                            AUTOR: Arturo_Perez-Reverte                       PRECIO:     108.29 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 74 
+CODIGO:    FKK6524   TITULO: Los_renglones_torcidos_de_Dios                                AUTOR: Torcuato_Luca_de_Tena                      PRECIO:     180.90 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 75 
+CODIGO:    KPE7420   TITULO: Jane_Eyre                                                     AUTOR: Charlotte_Brontë                           PRECIO:     279.51 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   63602514   NOMBRE: Shirakawa_Miranda_Madeleine                                 CALIFICACION:          8 
+
+LIBRO NO: 76 
+CODIGO:    MWB2923   TITULO: Mudlarking                                                    AUTOR: Lara_Maiklem                               PRECIO:     281.28 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65071478   NOMBRE: Arroyo_Gordillo_Maria_Heli                                  CALIFICACION:         60 
+
+LIBRO NO: 77 
+CODIGO:    ISY5671   TITULO: Harry_Potter_y_la_piedra_filosofal_(Harry_Potter_1)           AUTOR: J._K._Rowling                              PRECIO:     187.23 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 78 
+CODIGO:    NBE1339   TITULO: Palmeras_en_la_nieve                                          AUTOR: Luz_Gabas                                  PRECIO:     305.02 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 79 
+CODIGO:    JHP0390   TITULO: El_conde_de_Montecristo                                       AUTOR: Alexandre_Dumas                            PRECIO:     163.23 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 80 
+CODIGO:    OWU1533   TITULO: Cuatro_principes                                              AUTOR: John_Julius_Norwich                        PRECIO:     114.79 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   54393647   NOMBRE: Reyes_Tang_Edward                                           CALIFICACION:         23 
+
+LIBRO NO: 81 
+CODIGO:    SFR1226   TITULO: Ana_la_de_las_tejas_verdes                                    AUTOR: Lucy_Maud_Montgomery                       PRECIO:     186.05 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:         91 
+
+LIBRO NO: 82 
+CODIGO:    HRT0664   TITULO: Los_funerales_de_la_Mama_Grande                               AUTOR: Gabriel_Garcia_Marquez                     PRECIO:     257.52 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   35030611   NOMBRE: Cabrera_Luna_Shirley_Isabel                                 CALIFICACION:          5 
+
+LIBRO NO: 83 
+CODIGO:    HPP3360   TITULO: El_pintor_de_batallas                                         AUTOR: Arturo_Perez-Reverte                       PRECIO:     231.92 
+LIBROS VENDIDOS:          4   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   85870289   NOMBRE: Paredes_Patino_Christian                                    CALIFICACION:         66 
+No. 2   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         80 
+No. 3   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         58 
+No. 4   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         78 
+
+LIBRO NO: 84 
+CODIGO:    DND9446   TITULO: Lo_que_el_viento_se_llevo                                     AUTOR: Margaret_Mitchell                          PRECIO:     344.10 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 85 
+CODIGO:    LJD9991   TITULO: Baudolino                                                     AUTOR: Umberto_Eco                                PRECIO:     165.58 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:         18 
+
+LIBRO NO: 86 
+CODIGO:    XIU6076   TITULO: Rebelion_en_la_granja                                         AUTOR: George_Orwell                              PRECIO:     149.76 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:          6 
+No. 2   DNI:   33958767   NOMBRE: Perez_Farfan_Richard_Sandro                                 CALIFICACION:         37 
+
+LIBRO NO: 87 
+CODIGO:    PWX7633   TITULO: La_tia_Julia_y_el_escribidor                                  AUTOR: Mario_Vargas_Llosa                         PRECIO:      80.65 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 88 
+CODIGO:    UXZ2187   TITULO: Los_7_habitos_de_la_gente_altamente_efectiva                  AUTOR: Stephen_R._Covey                           PRECIO:     119.31 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         86 
+No. 2   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         16 
+No. 3   DNI:   51235238   NOMBRE: Prado_Falcon_Edgar_Richard                                  CALIFICACION:         67 
+
+LIBRO NO: 89 
+CODIGO:    UEJ1235   TITULO: Grandes_esperanzas                                            AUTOR: Charles_Dickens                            PRECIO:     237.49 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         52 
+No. 2   DNI:   86898639   NOMBRE: Pasquel_Quio_Surami_Janet                                   CALIFICACION:         95 
+
+LIBRO NO: 90 
+CODIGO:    DDQ0721   TITULO: En_busca_del_tiempo_perdido                                   AUTOR: Marcel_Proust                              PRECIO:     214.57 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   32231860   NOMBRE: Cerna_Hijar_Jose_Rolando                                    CALIFICACION:         57 
+No. 2   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         63 
+
+LIBRO NO: 91 
+CODIGO:    HWM4049   TITULO: Romper_el_circulo                                             AUTOR: Colleen_Hoover                             PRECIO:      54.57 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         93 
+No. 2   DNI:   38724322   NOMBRE: Inga_Flores_Cesar_Adolfo                                    CALIFICACION:         27 
+
+LIBRO NO: 92 
+CODIGO:    EWI3090   TITULO: La_seniora_Dalloway                                           AUTOR: Virginia_Woolf                             PRECIO:     304.25 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:          4 
+
+LIBRO NO: 93 
+CODIGO:    JZC7527   TITULO: El_tambor_de_hojalata                                         AUTOR: Gunter_Grass                               PRECIO:     220.33 
+LIBROS VENDIDOS:          3   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   67066631   NOMBRE: Arca_Amezquita_Edric_Ronald                                 CALIFICACION:         14 
+No. 2   DNI:   20610190   NOMBRE: Auris_Zimic_Javier_Daniel                                   CALIFICACION:         88 
+No. 3   DNI:   33958767   NOMBRE: Perez_Farfan_Richard_Sandro                                 CALIFICACION:         91 
+
+LIBRO NO: 94 
+CODIGO:    WYE2119   TITULO: El_asedio                                                     AUTOR: Arturo_Perez-Reverte                       PRECIO:     227.12 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         22 
+No. 2   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         95 
+No. 3   DNI:   66747161   NOMBRE: Vasquez_Paz_Alex_Martin                                     CALIFICACION:         33 
+
+LIBRO NO: 95 
+CODIGO:    YKQ9278   TITULO: Alicia_en_el_pais_de_las_maravillas                           AUTOR: Lewis_Carroll                              PRECIO:     104.54 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   49516360   NOMBRE: Mendoza_Egusquiza_Rosario                                   CALIFICACION:         84 
+
+LIBRO NO: 96 
+CODIGO:    ZNF2241   TITULO: El_extranio_caso_del_Dr._Jekyll_y_Mr._Hyde                    AUTOR: Robert_Louis_Stevenson                     PRECIO:     153.78 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 97 
+CODIGO:    CTW5846   TITULO: El_medievo_cristiano                                          AUTOR: Mario_Merlino                              PRECIO:     313.44 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         13 
+No. 2   DNI:   60740809   NOMBRE: Lozada_Yino_Martha                                          CALIFICACION:         99 
+
+LIBRO NO: 98 
+CODIGO:    FWP8469   TITULO: Justine_o_los_infortunios                                     AUTOR: Charles_Dickens                            PRECIO:     132.76 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         56 
+
+LIBRO NO: 99 
+CODIGO:    CRY6839   TITULO: Ricardo_III                                                   AUTOR: William_Shakespeare                        PRECIO:     231.85 
+LIBROS VENDIDOS:          5   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:         93 
+No. 2   DNI:   33958767   NOMBRE: Perez_Farfan_Richard_Sandro                                 CALIFICACION:         37 
+No. 3   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         72 
+No. 4   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:          9 
+No. 5   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         29 
+
+LIBRO NO: 100 
+CODIGO:    WMN3648   TITULO: Pasaje_a_la_India                                             AUTOR: E._M._Forster                              PRECIO:      81.84 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   20449598   NOMBRE: Velasquez_Huayanay_Edgard_Henry                             CALIFICACION:          8 
+
+LIBRO NO: 101 
+CODIGO:    QBL9575   TITULO: Los_miserables                                                AUTOR: Victor_Hugo                                PRECIO:      37.19 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         49 
+No. 2   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         49 
+
+LIBRO NO: 102 
+CODIGO:    VOI0019   TITULO: El_evangelio_segun_Jesucristo                                 AUTOR: Jose_Saramago                              PRECIO:     344.64 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         79 
+
+LIBRO NO: 103 
+CODIGO:    TMR5068   TITULO: Los_tres_mosqueteros                                          AUTOR: Alejandro_Dumas                            PRECIO:      55.94 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   38724322   NOMBRE: Inga_Flores_Cesar_Adolfo                                    CALIFICACION:         41 
+
+LIBRO NO: 104 
+CODIGO:    RWW7975   TITULO: El_nombre_de_la_rosa                                          AUTOR: Umberto_Eco                                PRECIO:     164.58 
+LIBROS VENDIDOS:          4   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65071478   NOMBRE: Arroyo_Gordillo_Maria_Heli                                  CALIFICACION:         10 
+No. 2   DNI:   33583840   NOMBRE: Villa_Yallico_Tatiana_Nancy                                 CALIFICACION:         71 
+No. 3   DNI:   32231860   NOMBRE: Cerna_Hijar_Jose_Rolando                                    CALIFICACION:         60 
+No. 4   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         42 
+
+LIBRO NO: 105 
+CODIGO:    LJE6687   TITULO: El_codigo_Da_Vinci                                            AUTOR: Dan_Brown                                  PRECIO:     171.78 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         22 
+
+LIBRO NO: 106 
+CODIGO:    PPI9259   TITULO: Revolucion                                                    AUTOR: Arturo_Perez-Reverte                       PRECIO:     120.80 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   60740809   NOMBRE: Lozada_Yino_Martha                                          CALIFICACION:         86 
+No. 2   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         11 
+
+LIBRO NO: 107 
+CODIGO:    ZYF6683   TITULO: Harry_Potter_y_la_Orden_del_Fenix_(_Harry_Potter_5)           AUTOR: J._K._Rowling                              PRECIO:     166.96 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         57 
+No. 2   DNI:   38724322   NOMBRE: Inga_Flores_Cesar_Adolfo                                    CALIFICACION:         54 
+
+LIBRO NO: 108 
+CODIGO:    GKG6581   TITULO: Hombres_buenos                                                AUTOR: Arturo_Perez-Reverte                       PRECIO:     318.48 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         10 
+
+LIBRO NO: 109 
+CODIGO:    WWT1581   TITULO: La_piel_del_tambor                                            AUTOR: Arturo_Perez-Reverte                       PRECIO:      97.98 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   27109544   NOMBRE: Henriquez_Espino_Beatriz                                    CALIFICACION:         32 
+No. 2   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         89 
+No. 3   DNI:   27109544   NOMBRE: Henriquez_Espino_Beatriz                                    CALIFICACION:         65 
+
+LIBRO NO: 110 
+CODIGO:    CMP1150   TITULO: Don_Quijote_de_la_Mancha                                      AUTOR: Miguel_de_Cervantes                        PRECIO:     359.19 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         92 
+No. 2   DNI:   27109544   NOMBRE: Henriquez_Espino_Beatriz                                    CALIFICACION:         67 
+
+LIBRO NO: 111 
+CODIGO:    CPE5718   TITULO: Paris_era_una_fiesta                                          AUTOR: Hernest_Hemingway                          PRECIO:     301.42 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         19 
+
+LIBRO NO: 112 
+CODIGO:    SHF2360   TITULO: Un_dia_de_colera                                              AUTOR: Arturo_Perez-Reverte                       PRECIO:      33.03 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 113 
+CODIGO:    ETV5056   TITULO: Moby_Dick                                                     AUTOR: Herman_Melville                            PRECIO:     287.77 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 114 
+CODIGO:    USE5598   TITULO: Fortaleza_digitali                                            AUTOR: Dan_Brown                                  PRECIO:     268.95 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         39 
+No. 2   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         37 
+
+LIBRO NO: 115 
+CODIGO:    TVR7016   TITULO: El_corazon_de_las_tinieblas                                   AUTOR: Joseph_Conrad                              PRECIO:     254.93 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   45834351   NOMBRE: Santisteban_Meza_Rosa                                       CALIFICACION:         71 
+
+LIBRO NO: 116 
+CODIGO:    BSX2922   TITULO: Una_historia_de_Espania                                       AUTOR: Arturo_Perez-Reverte                       PRECIO:     141.33 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   54393647   NOMBRE: Reyes_Tang_Edward                                           CALIFICACION:         97 
+
+LIBRO NO: 117 
+CODIGO:    GXB5722   TITULO: Cumbres_borrascosas                                           AUTOR: Emily_Brontë                               PRECIO:     238.82 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 118 
+CODIGO:    ZLE2920   TITULO: Historia_de_la_Edad_Media                                     AUTOR: Indro_Montanelli                           PRECIO:     222.63 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   35030611   NOMBRE: Cabrera_Luna_Shirley_Isabel                                 CALIFICACION:         83 
+No. 2   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:         92 
+
+LIBRO NO: 119 
+CODIGO:    MNL3677   TITULO: El_Hobbit                                                     AUTOR: J.R.R._Tolkien                             PRECIO:     198.53 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         34 
+No. 2   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         92 
+
+LIBRO NO: 120 
+CODIGO:    ZAL2738   TITULO: 1984                                                          AUTOR: George_Orwell                              PRECIO:     348.12 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   51235238   NOMBRE: Prado_Falcon_Edgar_Richard                                  CALIFICACION:         12 
+
+LIBRO NO: 121 
+CODIGO:    PQZ1316   TITULO: La_Eneida                                                     AUTOR: Virgilio                                   PRECIO:     347.98 
+LIBROS VENDIDOS:          5   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:         73 
+No. 2   DNI:   49516360   NOMBRE: Mendoza_Egusquiza_Rosario                                   CALIFICACION:         49 
+No. 3   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         75 
+No. 4   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         33 
+No. 5   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         57 
+
+LIBRO NO: 122 
+CODIGO:    DDU0764   TITULO: Dioses_tumbas_y_sabios                                        AUTOR: C._W._Ceram                                PRECIO:     305.47 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   60740809   NOMBRE: Lozada_Yino_Martha                                          CALIFICACION:          4 
+
+LIBRO NO: 123 
+CODIGO:    EEJ4830   TITULO: El_Principito                                                 AUTOR: Antoine_de_Saint-Exupery                   PRECIO:     314.97 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   66747161   NOMBRE: Vasquez_Paz_Alex_Martin                                     CALIFICACION:         98 
+No. 2   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         16 
+
+LIBRO NO: 124 
+CODIGO:    DPZ8059   TITULO: El_hombre_que_pudo_reinar                                     AUTOR: Rudyard_Kipling                            PRECIO:     326.37 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   45002711   NOMBRE: Landeo_Sueldo_Adolfo                                        CALIFICACION:         91 
+
+LIBRO NO: 125 
+CODIGO:    JJV7549   TITULO: Los_hombres_que_no_amaban_a_las_mujeres                       AUTOR: Stieg_Larsson                              PRECIO:     132.73 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   33583840   NOMBRE: Villa_Yallico_Tatiana_Nancy                                 CALIFICACION:         84 
+
+LIBRO NO: 126 
+CODIGO:    JXK3142   TITULO: En_el_camino                                                  AUTOR: Jack_Kerouac                               PRECIO:     170.15 
+LIBROS VENDIDOS:          5   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         49 
+No. 2   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         41 
+No. 3   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         59 
+No. 4   DNI:   96056368   NOMBRE: Raffo_Chung_Adria_Gloria                                    CALIFICACION:         20 
+No. 5   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:         30 
+
+LIBRO NO: 127 
+CODIGO:    USM9579   TITULO: El_perfume                                                    AUTOR: Patrick_Suskind                            PRECIO:     356.70 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         20 
+
+LIBRO NO: 128 
+CODIGO:    JGG5049   TITULO: El_eterno_marido                                              AUTOR: Fiodor_Dostoyevski                         PRECIO:     295.86 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   61212473   NOMBRE: Forzani_Caro_Alonso                                         CALIFICACION:          4 
+No. 2   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         18 
+
+LIBRO NO: 129 
+CODIGO:    MIK5358   TITULO: La_transformacion_del_mundo                                   AUTOR: Jürgen_Osterhammel                         PRECIO:     315.72 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 130 
+CODIGO:    BDK4183   TITULO: La_isla_del_tesoro                                            AUTOR: Robert_Louis_Stevenson                     PRECIO:     181.62 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:          4 
+No. 2   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         84 
+
+LIBRO NO: 131 
+CODIGO:    ECT0289   TITULO: Juego_de_tronos                                               AUTOR: George_R.R.Martin                          PRECIO:     235.18 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   27109544   NOMBRE: Henriquez_Espino_Beatriz                                    CALIFICACION:         63 
+
+LIBRO NO: 132 
+CODIGO:    DVR5984   TITULO: Mil_soles_esplendidos                                         AUTOR: Khaled_Hosseini                            PRECIO:     261.65 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   63602514   NOMBRE: Shirakawa_Miranda_Madeleine                                 CALIFICACION:          2 
+No. 2   DNI:   67066631   NOMBRE: Arca_Amezquita_Edric_Ronald                                 CALIFICACION:         32 
+
+LIBRO NO: 133 
+CODIGO:    EBE0042   TITULO: Capitanes_intrepidos                                          AUTOR: Rudyard_Kipling                            PRECIO:     224.31 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 134 
+CODIGO:    CXW5879   TITULO: Los_barcos_se_pierden_en_tierra                               AUTOR: Arturo_Perez-Reverte                       PRECIO:     243.00 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         10 
+No. 2   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         85 
+
+LIBRO NO: 135 
+CODIGO:    GOG7446   TITULO: El_guardian_entre_el_centeno                                  AUTOR: J._D._Salinger                             PRECIO:     282.95 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   96056368   NOMBRE: Raffo_Chung_Adria_Gloria                                    CALIFICACION:         24 
+
+LIBRO NO: 136 
+CODIGO:    QYH7021   TITULO: Historia_del_siglo_XX:_1914-1991                              AUTOR: Eric_Hobsbawm                              PRECIO:      59.37 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   46582367   NOMBRE: Justino_Forzani_Ericka_Victoria                             CALIFICACION:         90 
+
+LIBRO NO: 137 
+CODIGO:    KCI5219   TITULO: El_Maestro_y_Margarita                                        AUTOR: Mijail_Bulgakov                            PRECIO:     321.38 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 138 
+CODIGO:    FMX8255   TITULO: Las_aventuras_de_Huckleberry_Finn                             AUTOR: Mark_Twain                                 PRECIO:     228.56 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   86898639   NOMBRE: Pasquel_Quio_Surami_Janet                                   CALIFICACION:          7 
+No. 2   DNI:   15129661   NOMBRE: Valverde_Flores_Irma_Ydali                                  CALIFICACION:         60 
+
+LIBRO NO: 139 
+CODIGO:    ZQY9966   TITULO: El_suenio_del_tio                                             AUTOR: Fiodor_Dostoyevski                         PRECIO:      93.34 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         28 
+No. 2   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         47 
+
+LIBRO NO: 140 
+CODIGO:    DXP8640   TITULO: El_retrato_de_Dorian_Gray                                     AUTOR: Oscar_Wilde                                PRECIO:      73.31 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 141 
+CODIGO:    LRV5687   TITULO: La_guerra_del_fin_del_mundo                                   AUTOR: Mario_Vargas_Llosa                         PRECIO:     164.06 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   33958767   NOMBRE: Perez_Farfan_Richard_Sandro                                 CALIFICACION:         62 
+
+LIBRO NO: 142 
+CODIGO:    EBT7258   TITULO: Linea_de_fuego                                                AUTOR: Arturo_Perez-Reverte                       PRECIO:     215.98 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   46582367   NOMBRE: Justino_Forzani_Ericka_Victoria                             CALIFICACION:         20 
+No. 2   DNI:   49516360   NOMBRE: Mendoza_Egusquiza_Rosario                                   CALIFICACION:         63 
+No. 3   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         62 
+
+LIBRO NO: 143 
+CODIGO:    ELC8965   TITULO: Las_aventuras_de_Rocambole                                    AUTOR: Ponson_Du_Terrail                          PRECIO:     144.29 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         78 
+
+LIBRO NO: 144 
+CODIGO:    ULM8751   TITULO: La_sumisa                                                     AUTOR: Fiodor_Dostoyevski                         PRECIO:     259.84 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         99 
+
+LIBRO NO: 145 
+CODIGO:    PGK5617   TITULO: El_Rey_Lear                                                   AUTOR: William_Shakespeare                        PRECIO:     331.68 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 146 
+CODIGO:    QFG6515   TITULO: El_libro_de_la_selva                                          AUTOR: Rudyard_Kipling                            PRECIO:     329.44 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 147 
+CODIGO:    QVX9089   TITULO: Madame_Bovary                                                 AUTOR: Gustave_Flaubert                           PRECIO:      43.74 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         30 
+
+LIBRO NO: 148 
+CODIGO:    QMI4747   TITULO: La_isla_de_los_amores_infinitos                               AUTOR: Daina_Chaviano                             PRECIO:      43.56 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:          1 
+
+LIBRO NO: 149 
+CODIGO:    SMW0186   TITULO: La_sombra_del_viento                                          AUTOR: Carlos_Ruiz_Zafon                          PRECIO:     214.64 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   36699613   NOMBRE: Mejia_De_La_Haza_Francisco_Edgar                            CALIFICACION:         19 
+No. 2   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:          3 
+
+LIBRO NO: 150 
+CODIGO:    HSE3213   TITULO: Por_quien_doblan_las_campanas                                 AUTOR: Hernest_Hemingway                          PRECIO:     259.22 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   27109544   NOMBRE: Henriquez_Espino_Beatriz                                    CALIFICACION:          3 
+
+LIBRO NO: 151 
+CODIGO:    RZX8790   TITULO: El_senior_de_las_moscas                                       AUTOR: William_Golding                            PRECIO:     188.11 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   33958767   NOMBRE: Perez_Farfan_Richard_Sandro                                 CALIFICACION:         43 
+No. 2   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         18 
+No. 3   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         39 
+
+LIBRO NO: 152 
+CODIGO:    XMT1768   TITULO: Los_diarios_de_Adan_y_Eva                                     AUTOR: Mark_Twain                                 PRECIO:     345.54 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 153 
+CODIGO:    HGN9910   TITULO: La_ciudad_y_los_perros                                        AUTOR: Mario_Vargas_Llosa                         PRECIO:     190.86 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   38724322   NOMBRE: Inga_Flores_Cesar_Adolfo                                    CALIFICACION:         42 
+No. 2   DNI:   76693511   NOMBRE: Laura_Wong_Melvin_Henrry                                    CALIFICACION:         78 
+
+LIBRO NO: 154 
+CODIGO:    JNC0786   TITULO: Mi_isla                                                       AUTOR: Elisabet_Benavent                          PRECIO:      24.53 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         54 
+
+LIBRO NO: 155 
+CODIGO:    HHR5161   TITULO: El_francotirador_paciente                                     AUTOR: Arturo_Perez-Reverte                       PRECIO:      42.45 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   96056368   NOMBRE: Raffo_Chung_Adria_Gloria                                    CALIFICACION:          4 
+
+LIBRO NO: 156 
+CODIGO:    FNM6936   TITULO: Divina_comedia                                                AUTOR: Dante_Alighieri                            PRECIO:      21.84 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   27109544   NOMBRE: Henriquez_Espino_Beatriz                                    CALIFICACION:         65 
+No. 2   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         36 
+
+LIBRO NO: 157 
+CODIGO:    HVZ1228   TITULO: El_husar                                                      AUTOR: Arturo_Perez-Reverte                       PRECIO:     150.41 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         62 
+
+LIBRO NO: 158 
+CODIGO:    MKB4184   TITULO: Napoleon                                                      AUTOR: Alejandro_Dumas                            PRECIO:     261.25 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 159 
+CODIGO:    KBF4088   TITULO: Harry_Potter_y_el_prisionero_de_Azkaban_(Harry_Potter_3)      AUTOR: J.K._Rowling                               PRECIO:     269.58 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         67 
+
+LIBRO NO: 160 
+CODIGO:    ZQD4253   TITULO: Harry_Potter_y_el_misterio_del_principe_(_Harry_Potter_6)     AUTOR: J._K._Rowling                              PRECIO:     117.19 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         75 
+
+LIBRO NO: 161 
+CODIGO:    PHL4155   TITULO: El_idiota                                                     AUTOR: Fiodor_Dostoyevski                         PRECIO:     330.10 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:          2 
+
+LIBRO NO: 162 
+CODIGO:    EYV0597   TITULO: Cuentos_de_la_selva                                           AUTOR: Horacio_Quiroga                            PRECIO:     161.31 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 163 
+CODIGO:    AKU9740   TITULO: Conversacion_en_La_Catedral                                   AUTOR: Mario_Vargas_Llosa                         PRECIO:     225.78 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   45002711   NOMBRE: Landeo_Sueldo_Adolfo                                        CALIFICACION:         35 
+
+LIBRO NO: 164 
+CODIGO:    ACM9578   TITULO: Amadis_de_gaula                                               AUTOR: Garci_Rodriguez_Montalvo                   PRECIO:     299.89 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 165 
+CODIGO:    OCI8959   TITULO: David_Copperfield                                             AUTOR: Charles_Dickens                            PRECIO:     190.16 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         96 
+No. 2   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         19 
+
+LIBRO NO: 166 
+CODIGO:    EJE8138   TITULO: Yawar_fiesta                                                  AUTOR: Jose_Maria_Arguedas                        PRECIO:     336.76 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   79743481   NOMBRE: Salas_Aguero_Daniel                                         CALIFICACION:         90 
+No. 2   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         80 
+
+LIBRO NO: 167 
+CODIGO:    WHU1288   TITULO: La_hija_italiana                                              AUTOR: Soraya_Lane                                PRECIO:     206.44 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         65 
+
+LIBRO NO: 168 
+CODIGO:    ICU6090   TITULO: La_fiesta_del_chivo                                           AUTOR: Mario_Vargas_Llosa                         PRECIO:     358.24 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         50 
+
+LIBRO NO: 169 
+CODIGO:    BUC5125   TITULO: El_faro_de_Stalingrado                                        AUTOR: Iain_MacGregor                             PRECIO:     238.95 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         24 
+
+LIBRO NO: 170 
+CODIGO:    BUY4915   TITULO: La_sombra_del_aguila                                          AUTOR: Arturo_Perez-Reverte                       PRECIO:     287.75 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   76693511   NOMBRE: Laura_Wong_Melvin_Henrry                                    CALIFICACION:         14 
+
+LIBRO NO: 171 
+CODIGO:    USK1312   TITULO: Un_mundo_sin_fin                                              AUTOR: Ken_Follett                                PRECIO:     129.39 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 172 
+CODIGO:    VFO4193   TITULO: La_catedral_del_mar                                           AUTOR: Ildefonso_Falcones                         PRECIO:     330.92 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 173 
+CODIGO:    OWO8918   TITULO: Origen                                                        AUTOR: Dan_Brown                                  PRECIO:     213.71 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 174 
+CODIGO:    YZV6954   TITULO: Corazon_de_las_tinieblas                                      AUTOR: Joseph_Conrad                              PRECIO:     155.63 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         59 
+No. 2   DNI:   58717040   NOMBRE: Cabrera_Canales_Guillermo_Edric                             CALIFICACION:         56 
+No. 3   DNI:   48053960   NOMBRE: Corrales_Tsukazan_Irma_Lourdes                              CALIFICACION:         69 
+
+LIBRO NO: 175 
+CODIGO:    CLG5566   TITULO: Pantaleon_y_las_visitadoras                                   AUTOR: Mario_Vargas_Llosa                         PRECIO:     253.85 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         65 
+
+LIBRO NO: 176 
+CODIGO:    IUI3314   TITULO: El_coronel_no_tiene_quien_le_escriba                          AUTOR: Gabriel_Garcia_Marquez                     PRECIO:     103.39 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         58 
+
+LIBRO NO: 177 
+CODIGO:    EFD3949   TITULO: La_divina_comedia                                             AUTOR: Dante_Alighieri                            PRECIO:      51.42 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 178 
+CODIGO:    FVV9246   TITULO: Matar_a_un_ruisenior                                          AUTOR: Harper_Lee                                 PRECIO:     348.76 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 179 
+CODIGO:    SPM4763   TITULO: Eva                                                           AUTOR: Arturo_Perez-Reverte                       PRECIO:     165.44 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   54393647   NOMBRE: Reyes_Tang_Edward                                           CALIFICACION:         49 
+
+LIBRO NO: 180 
+CODIGO:    BHD6079   TITULO: Zorba_el_griego                                               AUTOR: Nikos_Kazantzakis                          PRECIO:     173.67 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         74 
+
+LIBRO NO: 181 
+CODIGO:    RYI5447   TITULO: El_corazon_es_un_cazador_solitario                            AUTOR: Carson_Mccullers                           PRECIO:     190.55 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         23 
+
+LIBRO NO: 182 
+CODIGO:    BUB3833   TITULO: Otelo                                                         AUTOR: William_Shakespeare                        PRECIO:     212.79 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 183 
+CODIGO:    EUO8195   TITULO: El_jardin_del_Eden                                            AUTOR: Hernest_Hemingway                          PRECIO:     346.82 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 184 
+CODIGO:    KSX7995   TITULO: El_simbolo_perdidoi                                           AUTOR: Dan_Brown                                  PRECIO:      58.39 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   33583840   NOMBRE: Villa_Yallico_Tatiana_Nancy                                 CALIFICACION:         29 
+No. 2   DNI:   67066631   NOMBRE: Arca_Amezquita_Edric_Ronald                                 CALIFICACION:         75 
+
+LIBRO NO: 185 
+CODIGO:    MTZ2227   TITULO: Hamlet                                                        AUTOR: William_Shakespeare                        PRECIO:      91.11 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 186 
+CODIGO:    JSM8271   TITULO: La_Odisea                                                     AUTOR: Homero                                     PRECIO:     304.10 
+LIBROS VENDIDOS:          3   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   15129661   NOMBRE: Valverde_Flores_Irma_Ydali                                  CALIFICACION:         81 
+No. 2   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         79 
+No. 3   DNI:   72832218   NOMBRE: Vega_Garcia_Janet_Rebeca                                    CALIFICACION:         75 
+
+LIBRO NO: 187 
+CODIGO:    KVL6246   TITULO: La_edad_media_-_barbaros_-_cristianos_y_musulmanes            AUTOR: Umberto_Eco                                PRECIO:      38.27 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         99 
+No. 2   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         95 
+
+LIBRO NO: 188 
+CODIGO:    QMJ4188   TITULO: Emma                                                          AUTOR: Jane_Austen                                PRECIO:      82.40 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 189 
+CODIGO:    QKH2262   TITULO: Fiesta                                                        AUTOR: Hernest_Hemingway                          PRECIO:     105.11 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         88 
+No. 2   DNI:   63602514   NOMBRE: Shirakawa_Miranda_Madeleine                                 CALIFICACION:         33 
+
+LIBRO NO: 190 
+CODIGO:    HXB2949   TITULO: El_medico                                                     AUTOR: Noah_Gordon                                PRECIO:     173.83 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 191 
+CODIGO:    OBH4691   TITULO: Crimen_y_castigo                                              AUTOR: Fiodor_Dostoyevski                         PRECIO:      34.78 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:         37 
+
+LIBRO NO: 192 
+CODIGO:    IPE3429   TITULO: Sidi                                                          AUTOR: Arturo_Perez-Reverte                       PRECIO:     360.75 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65071478   NOMBRE: Arroyo_Gordillo_Maria_Heli                                  CALIFICACION:         70 
+
+LIBRO NO: 193 
+CODIGO:    ILA4795   TITULO: La_ladrona_de_libros                                          AUTOR: Markus_ZusaK                               PRECIO:     212.33 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         36 
+
+LIBRO NO: 194 
+CODIGO:    EFQ0297   TITULO: Trampa_22                                                     AUTOR: Joseph_Heller                              PRECIO:     325.88 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 195 
+CODIGO:    BRG4234   TITULO: La_telarania_de_Carlota                                       AUTOR: E._B._White                                PRECIO:      32.77 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 196 
+CODIGO:    EZP0333   TITULO: La_Reina_del_Sur                                              AUTOR: Arturo_Perez-Reverte                       PRECIO:      91.75 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   81462164   NOMBRE: Fernandez_Ortega_Elizabeth_Elizabeth                        CALIFICACION:         63 
+No. 2   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:         29 
+
+LIBRO NO: 197 
+CODIGO:    MBB0685   TITULO: El_capitan_Alatriste                                          AUTOR: Arturo_Perez-Reverte                       PRECIO:     253.85 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   88080249   NOMBRE: Coronel_Chumpitaz_Heli                                      CALIFICACION:         97 
+
+LIBRO NO: 198 
+CODIGO:    CST1133   TITULO: Inferno                                                       AUTOR: Dan_Brown                                  PRECIO:     278.38 
+LIBROS VENDIDOS:          2   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37328103   NOMBRE: Palomares_Vera_Henrry_Humberto                              CALIFICACION:         60 
+No. 2   DNI:   67066631   NOMBRE: Arca_Amezquita_Edric_Ronald                                 CALIFICACION:        100 
+
+LIBRO NO: 199 
+CODIGO:    RNG2321   TITULO: El_Aleph                                                      AUTOR: Jorge_Luis_Borges                          PRECIO:      55.75 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   87804471   NOMBRE: Diaz_Antezano_Magali_Silvana                                CALIFICACION:         58 
+No. 2   DNI:   58717040   NOMBRE: Cabrera_Canales_Guillermo_Edric                             CALIFICACION:          7 
+
+LIBRO NO: 200 
+CODIGO:    RSK1164   TITULO: El_amor_en_los_tiempos_del_colera                             AUTOR: Gabriel_Garcia_Marquez                     PRECIO:     144.93 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   38724322   NOMBRE: Inga_Flores_Cesar_Adolfo                                    CALIFICACION:        100 
+No. 2   DNI:   33583840   NOMBRE: Villa_Yallico_Tatiana_Nancy                                 CALIFICACION:         38 
+No. 3   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         60 
+
+LIBRO NO: 201 
+CODIGO:    WYS2674   TITULO: Secuestrado                                                   AUTOR: Robert_Louis_Stevenson                     PRECIO:     291.94 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 202 
+CODIGO:    CRR5443   TITULO: Un_mundo_feliz                                                AUTOR: Aldous_Huxley                              PRECIO:     114.05 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         40 
+No. 2   DNI:   66747161   NOMBRE: Vasquez_Paz_Alex_Martin                                     CALIFICACION:         10 
+No. 3   DNI:   81082011   NOMBRE: Shirakawa_Ortega_Angel                                      CALIFICACION:         51 
+
+LIBRO NO: 203 
+CODIGO:    JEN0751   TITULO: Ana_Karenina                                                  AUTOR: Leon_Tolstoi                               PRECIO:     102.26 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:          5 
+
+LIBRO NO: 204 
+CODIGO:    IGT8523   TITULO: Una_columna_de_fuego                                          AUTOR: Ken_Follett                                PRECIO:     223.32 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 205 
+CODIGO:    FYV9055   TITULO: Macbeth                                                       AUTOR: William_Shakespeare                        PRECIO:     265.73 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65071478   NOMBRE: Arroyo_Gordillo_Maria_Heli                                  CALIFICACION:         58 
+No. 2   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         22 
+
+LIBRO NO: 206 
+CODIGO:    LGB2311   TITULO: Decameron                                                     AUTOR: Giovanni_Boccaccio                         PRECIO:     275.02 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 207 
+CODIGO:    MEH2993   TITULO: Hijos_de_un_tiempo_perdido                                    AUTOR: Jose_Maria_Bermudez_de_Castro              PRECIO:     125.48 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   88080249   NOMBRE: Coronel_Chumpitaz_Heli                                      CALIFICACION:         58 
+
+LIBRO NO: 208 
+CODIGO:    CJN4376   TITULO: Harry_Potter_y_la_camara_secreta_(Harry_Potter_2)             AUTOR: J._K._Rowling                              PRECIO:      20.25 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   86898639   NOMBRE: Pasquel_Quio_Surami_Janet                                   CALIFICACION:         78 
+
+LIBRO NO: 209 
+CODIGO:    ION3794   TITULO: Crepusculo                                                    AUTOR: Stephenie_Meyer                            PRECIO:     193.54 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 210 
+CODIGO:    HDA2333   TITULO: Lituma_en_los_Andes                                           AUTOR: Mario_Vargas_Llosa                         PRECIO:     147.48 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 211 
+CODIGO:    CKR6798   TITULO: El_lobo_estepario                                             AUTOR: Hermann_Hesse                              PRECIO:      53.54 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         77 
+
+LIBRO NO: 212 
+CODIGO:    GDA4236   TITULO: Gente_normal                                                  AUTOR: Sally_Rooney                               PRECIO:     246.62 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         56 
+
+LIBRO NO: 213 
+CODIGO:    BAP2859   TITULO: El_tunel                                                      AUTOR: Ernesto_Sabato                             PRECIO:     230.23 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 214 
+CODIGO:    EHX6253   TITULO: La_isla_de_las_tormentas                                      AUTOR: Ken_Follett                                PRECIO:     185.52 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         39 
+
+LIBRO NO: 215 
+CODIGO:    OUU5470   TITULO: La_carta_esferica                                             AUTOR: Arturo_Perez-Reverte                       PRECIO:      84.53 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 216 
+CODIGO:    PQB0775   TITULO: El_diablo_de_la_botella_y_otros_cuentos                       AUTOR: Robert_Louis_Stevenson                     PRECIO:     199.01 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         13 
+No. 2   DNI:   17750908   NOMBRE: Chumpitaz_Iberos_Ronal                                      CALIFICACION:         44 
+
+LIBRO NO: 217 
+CODIGO:    DEF7625   TITULO: Las_uvas_de_la_ira                                            AUTOR: John_SteinbecK                             PRECIO:     251.95 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 218 
+CODIGO:    UDS2730   TITULO: Los_Nibelungos                                                AUTOR: Anonimo                                    PRECIO:     322.91 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   50860318   NOMBRE: Salazar_Corrales_Lorena_Irma                                CALIFICACION:         57 
+No. 2   DNI:   76693511   NOMBRE: Laura_Wong_Melvin_Henrry                                    CALIFICACION:         89 
+
+LIBRO NO: 219 
+CODIGO:    DTH6788   TITULO: Los_perros_duros_no_bailan                                    AUTOR: Arturo_Perez-Reverte                       PRECIO:     288.31 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 220 
+CODIGO:    KLV1872   TITULO: Orgullo_y_prejuicio                                           AUTOR: Jane_Austen                                PRECIO:     166.42 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         98 
+
+LIBRO NO: 221 
+CODIGO:    BUT4998   TITULO: Lolita                                                        AUTOR: Vladimir_Nabokov                           PRECIO:     105.39 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   35030611   NOMBRE: Cabrera_Luna_Shirley_Isabel                                 CALIFICACION:         44 
+
+LIBRO NO: 222 
+CODIGO:    XBC5847   TITULO: Tiempos_recios                                                AUTOR: Mario_Vargas_Llosa                         PRECIO:     318.33 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         12 
+
+LIBRO NO: 223 
+CODIGO:    AZL1098   TITULO: El_extranjero                                                 AUTOR: Albert_Camus                               PRECIO:     122.15 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 224 
+CODIGO:    BZY0235   TITULO: Fausto                                                        AUTOR: Johann_Wolfgang_Von_Goethe                 PRECIO:     254.21 
+LIBROS VENDIDOS:          5   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:          5 
+No. 2   DNI:   45834351   NOMBRE: Santisteban_Meza_Rosa                                       CALIFICACION:         61 
+No. 3   DNI:   45181396   NOMBRE: Cerna_Durand_Martin                                         CALIFICACION:         44 
+No. 4   DNI:   58717040   NOMBRE: Cabrera_Canales_Guillermo_Edric                             CALIFICACION:         92 
+No. 5   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         60 
+
+LIBRO NO: 225 
+CODIGO:    QQQ4712   TITULO: Nuestra_Seniora_de_Paris                                      AUTOR: Victor_Hugo                                PRECIO:     346.01 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         53 
+
+LIBRO NO: 226 
+CODIGO:    BTX3816   TITULO: El_jugador                                                    AUTOR: Fiodor_Dostoyevski                         PRECIO:      63.36 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         68 
+No. 2   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         80 
+No. 3   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:          1 
+
+LIBRO NO: 227 
+CODIGO:    MLC7198   TITULO: Los_rios_profundos                                            AUTOR: Jose_Maria_Arguedas                        PRECIO:     306.61 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   20449598   NOMBRE: Velasquez_Huayanay_Edgard_Henry                             CALIFICACION:         23 
+
+LIBRO NO: 228 
+CODIGO:    JZU0977   TITULO: El_alquimista                                                 AUTOR: Paulo_Coelho                               PRECIO:      50.93 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         82 
+
+LIBRO NO: 229 
+CODIGO:    AGQ7769   TITULO: La_Flecha_Negra                                               AUTOR: Robert_Louis_Stevenson                     PRECIO:     241.33 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         49 
+
+LIBRO NO: 230 
+CODIGO:    BXE0974   TITULO: Los_viajes_de_Gulliver                                        AUTOR: Jonathan_Swift                             PRECIO:     248.60 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         53 
+No. 2   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:         58 
+
+LIBRO NO: 231 
+CODIGO:    UFK9792   TITULO: El_psicoanalista                                              AUTOR: John_Katzenbach                            PRECIO:      29.95 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 232 
+CODIGO:    XRL3393   TITULO: Le_dedico_mi_silencio                                         AUTOR: Mario_Vargas_Llosa                         PRECIO:      24.29 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 233 
+CODIGO:    GUN8655   TITULO: Angeles_y_demoniosi                                           AUTOR: Dan_Brown                                  PRECIO:      37.00 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:         13 
+
+LIBRO NO: 234 
+CODIGO:    NGQ6935   TITULO: La_casa_de_los_espiritus                                      AUTOR: Isabel_Allende                             PRECIO:     367.20 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         25 
+
+LIBRO NO: 235 
+CODIGO:    PWB4941   TITULO: La_montania_magica                                            AUTOR: Thomas_Mann                                PRECIO:     238.07 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 236 
+CODIGO:    NEW1762   TITULO: Territorio_comanche                                           AUTOR: Arturo_Perez-Reverte                       PRECIO:     155.89 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   20449598   NOMBRE: Velasquez_Huayanay_Edgard_Henry                             CALIFICACION:         40 
+No. 2   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         65 
+
+LIBRO NO: 237 
+CODIGO:    QHZ8547   TITULO: Adios_a_las_armas                                             AUTOR: Hernest_Hemingway                          PRECIO:     192.79 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         89 
+
+LIBRO NO: 238 
+CODIGO:    PCS8992   TITULO: Y_no_quedo_ninguno                                            AUTOR: Agatha_Christie                            PRECIO:     324.88 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   21344013   NOMBRE: Aquino_Toro_Valentina_Rocio                                 CALIFICACION:          3 
+
+LIBRO NO: 239 
+CODIGO:    VFI8064   TITULO: A_sangre_fria                                                 AUTOR: Truman_Capote                              PRECIO:     269.17 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         85 
+No. 2   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         87 
+
+LIBRO NO: 240 
+CODIGO:    XTM9385   TITULO: El_mundo                                                      AUTOR: Simon_Sebag_Montefiore                     PRECIO:     155.63 
+LIBROS VENDIDOS:          1   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   60740809   NOMBRE: Lozada_Yino_Martha                                          CALIFICACION:         29 
+
+LIBRO NO: 241 
+CODIGO:    VDL9379   TITULO: Los_juegos_del_hambre                                         AUTOR: Suzanne_Collins                            PRECIO:     308.73 
+LIBROS VENDIDOS:          1   RANKING:        4 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         93 
+
+LIBRO NO: 242 
+CODIGO:    IFL0150   TITULO: Romeo_y_Julieta                                               AUTOR: William_Shakespeare                        PRECIO:     193.17 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         99 
+No. 2   DNI:   14268463   NOMBRE: Diaz_Correa_Irma_Virginia                                   CALIFICACION:         45 
+No. 3   DNI:   60740809   NOMBRE: Lozada_Yino_Martha                                          CALIFICACION:         11 
+
+LIBRO NO: 243 
+CODIGO:    JZQ8143   TITULO: Suenios_de_robot                                              AUTOR: Isaac_Asimov                               PRECIO:     356.97 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         81 
+No. 2   DNI:   51235238   NOMBRE: Prado_Falcon_Edgar_Richard                                  CALIFICACION:          4 
+No. 3   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         44 
+
+LIBRO NO: 244 
+CODIGO:    SXT1015   TITULO: Mientras_agonizo                                              AUTOR: William_Faulkner                           PRECIO:     232.57 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 245 
+CODIGO:    KGO1734   TITULO: Una_historia_del_mundo                                        AUTOR: Andrew_Marr                                PRECIO:     256.90 
+LIBROS VENDIDOS:          3   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   11750801   NOMBRE: Raffo_Arias_Surami_Annie                                    CALIFICACION:         72 
+No. 2   DNI:   66747161   NOMBRE: Vasquez_Paz_Alex_Martin                                     CALIFICACION:         47 
+No. 3   DNI:   69200503   NOMBRE: Norabuena_Preciado_Cinthia                                  CALIFICACION:         42 
+
+LIBRO NO: 246 
+CODIGO:    SMI7078   TITULO: Los_cachorros                                                 AUTOR: Mario_Vargas_Llosa                         PRECIO:      30.12 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         24 
+
+LIBRO NO: 247 
+CODIGO:    RAO4129   TITULO: Stalingrado                                                   AUTOR: Jonathan_Trigg                             PRECIO:     112.38 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   15129661   NOMBRE: Valverde_Flores_Irma_Ydali                                  CALIFICACION:         21 
+
+LIBRO NO: 248 
+CODIGO:    VYG3594   TITULO: Los_demonios                                                  AUTOR: Fiodor_Dostoyevski                         PRECIO:     295.35 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   34460612   NOMBRE: Morales_Valverde_Ines_Martha                                CALIFICACION:         22 
+
+LIBRO NO: 249 
+CODIGO:    HLC2748   TITULO: El_senior_de_los_anillos_(Trilogia)                           AUTOR: J.R.R.Tolkien                              PRECIO:     145.02 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 250 
+CODIGO:    GJM4671   TITULO: Origenes                                                      AUTOR: Lewis_Dartnell                             PRECIO:     227.01 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 251 
+CODIGO:    VYK6352   TITULO: Armas_germenes_y_acero                                        AUTOR: Jared_Diamond                              PRECIO:     313.79 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 252 
+CODIGO:    VSG3432   TITULO: Bajo_bandera_negra                                            AUTOR: David_Cordingly                            PRECIO:      56.14 
+LIBROS VENDIDOS:          4   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         83 
+No. 2   DNI:   60740809   NOMBRE: Lozada_Yino_Martha                                          CALIFICACION:         79 
+No. 3   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         51 
+No. 4   DNI:   65830353   NOMBRE: Caro_Polo_Sandro                                            CALIFICACION:         53 
+
+LIBRO NO: 253 
+CODIGO:    OQK1590   TITULO: Cometas_en_el_cielo                                           AUTOR: Khaled_Hosseini                            PRECIO:     369.96 
+LIBROS VENDIDOS:          1   RANKING:        3 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         61 
+
+LIBRO NO: 254 
+CODIGO:    JXC1015   TITULO: Robinson_Crusoe                                               AUTOR: Daniel_Defoe                               PRECIO:     108.84 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 255 
+CODIGO:    TAB4639   TITULO: El_color_que_cayo_del_cielo                                   AUTOR: H._P._Lovecraft                            PRECIO:     210.02 
+LIBROS VENDIDOS:          2   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   42302422   NOMBRE: Maldonado_Ramirez_Silvana                                   CALIFICACION:         18 
+No. 2   DNI:   88080249   NOMBRE: Coronel_Chumpitaz_Heli                                      CALIFICACION:         31 
+
+LIBRO NO: 256 
+CODIGO:    YXF2137   TITULO: En_agosto_nos_vemos                                           AUTOR: Gabriel_Garcia_Marquez                     PRECIO:     242.03 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 257 
+CODIGO:    SIR3963   TITULO: Memorias_de_una_geisha                                        AUTOR: Arthur_Golden                              PRECIO:     167.74 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 258 
+CODIGO:    ALH8812   TITULO: Guerra_y_Paz                                                  AUTOR: Leon_Tolstoi                               PRECIO:      37.06 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   14500753   NOMBRE: Delgado_Gonzales_Guillermo_Alfonso                          CALIFICACION:         46 
+No. 2   DNI:   83265244   NOMBRE: Wong_Martel_Madeleine                                       CALIFICACION:         98 
+
+LIBRO NO: 259 
+CODIGO:    UCA0857   TITULO: SPQR:_una_historia_de_la_antigua_Roma                         AUTOR: Mary_Beard                                 PRECIO:     215.07 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         12 
+
+LIBRO NO: 260 
+CODIGO:    KLO8691   TITULO: Catedral                                                      AUTOR: Raymond_Carver                             PRECIO:     144.15 
+LIBROS VENDIDOS:          1   RANKING:        1 
+VENTAS REALIZADAS: 
+No. 1   DNI:   45181396   NOMBRE: Cerna_Durand_Martin                                         CALIFICACION:         13 
+
+LIBRO NO: 261 
+CODIGO:    HPM0950   TITULO: Fahrenheit_451                                                AUTOR: Ray_Bradbury                               PRECIO:     123.40 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:          8 
+No. 2   DNI:   37751890   NOMBRE: Romero_Palomares_Gloria_Tatiana                             CALIFICACION:         55 
+
+LIBRO NO: 262 
+CODIGO:    JOF6762   TITULO: Ojos_azules                                                   AUTOR: Arturo_Perez-Reverte                       PRECIO:     218.80 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 263 
+CODIGO:    DEK2757   TITULO: En_llamas                                                     AUTOR: Suzanne_Collins                            PRECIO:     337.07 
+LIBROS VENDIDOS:          3   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   86898639   NOMBRE: Pasquel_Quio_Surami_Janet                                   CALIFICACION:          4 
+No. 2   DNI:   92240876   NOMBRE: Mejia_Diaz_Blanca_Milagros                                  CALIFICACION:         72 
+No. 3   DNI:   57431952   NOMBRE: Castro_Suarez_Rolando                                       CALIFICACION:         84 
+
+LIBRO NO: 264 
+CODIGO:    RRE8138   TITULO: Trilogia_de_la_Fundacion                                      AUTOR: Isaac_Asimov                               PRECIO:     357.57 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 265 
+CODIGO:    JKE9650   TITULO: La_metamorfosis                                               AUTOR: Franz_Kafka                                PRECIO:     192.81 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 266 
+CODIGO:    BZX4462   TITULO: Culpa_mia                                                     AUTOR: Mercedes_Ron                               PRECIO:      89.66 
+LIBROS VENDIDOS:          0   RANKING:        0 
+VENTAS REALIZADAS: 
+
+LIBRO NO: 267 
+CODIGO:    NFP3266   TITULO: Sabotaje                                                      AUTOR: Arturo_Perez-Reverte                       PRECIO:     101.02 
+LIBROS VENDIDOS:          2   RANKING:        2 
+VENTAS REALIZADAS: 
+No. 1   DNI:   88080249   NOMBRE: Coronel_Chumpitaz_Heli                                      CALIFICACION:         72 
+No. 2   DNI:   47659552   NOMBRE: Prado_Vergel_Carlos_Julian                                  CALIFICACION:         90
