@@ -1,0 +1,3785 @@
+run:
+====================================================================================LISTADO DE PARTICIPANTES=================================================================================
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CÓDIGO    	NOMBRE                             	FACULTAD       	ESPECIALIDAD                  	PAÍS           	IDIOMAS                                           	DURACIÓN       
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20160658  	Arca_Amezquita_Edric_Ronald        	FCI            	Ingeniería_Mecanica           	N/A            	N/A                                               	N/A            
+20119778  	Morales_Valverde_Ines_Martha       	EEGGCC         	Ingeniería_Informática        	N/A            	N/A                                               	N/A            
+5258      	Haruto_Suzuki                      	N/A            	N/A                           	Japón          	[Japonés]                                         	Semestres (2)  
+20150564  	Auris_Zimic_Javier_Daniel          	FCI            	Matemáticas                   	N/A            	N/A                                               	N/A            
+20080667  	Lozada_Yino_Martha                 	FCI            	Matematicas                   	N/A            	N/A                                               	N/A            
+20127352  	Justino_Cruz_Williams              	EEGGCC         	Ingeniería_Mecanica           	N/A            	N/A                                               	N/A            
+5395      	Johann_Weber                       	N/A            	N/A                           	Austria        	[Alemán, Inglés, Castellano, Francés, Italiano]   	Semestres (1)  
+20120476  	Henriquez_Espino_Beatriz           	EEGGCC         	Ingeniería_Informática        	N/A            	N/A                                               	N/A            
+20160119  	Paredes_Patino_Christian           	FCI            	Ingeniería_Informática        	N/A            	N/A                                               	N/A            
+20109738  	Caro_Polo_Sandro                   	EEGGCC         	Ingeniería_Mecanica           	N/A            	N/A                                               	N/A            
+20003541  	Cabrera_Canales_Guillermo_Edric    	FCI            	Ingeniería_Informática        	N/A            	N/A                                               	N/A            
+4450      	Carlo_Reyes                        	N/A            	N/A                           	Filipinas      	[Inglés, Castellano]                              	Semestres (1)  
+7613      	Anna_Schneider                     	N/A            	N/A                           	Alemania       	[Alemán, Catalan, Español]                        	Semestres (3)  
+20170596  	Portugal_Benavente_Johana_Gloria   	FCI            	Ingeniería_Mecanica           	N/A            	N/A                                               	N/A            
+9442      	João_Silva                         	N/A            	N/A                           	Brasil         	[Portugés, Italiano, Japónes, Chino]              	Semestres (1)  
+2075      	Aranda_Johnny                      	N/A            	N/A                           	Colombia       	[Castellano, Inglés]                              	Semestres (2)  
+20083333  	Laura_Wong_Melvin_Henrry           	FCI            	Ingeniería_Mecanica           	N/A            	N/A                                               	N/A            
+6702      	Emma_Taylor                        	N/A            	N/A                           	Australia      	[Inglés, Quechua, Aymara, Castellano, Francés]    	Semestres (3)  
+1994      	Isabel_Martínez                    	N/A            	N/A                           	Puerto_Rico    	[Inglés]                                          	Semestres (2)  
+20097877  	Coronel_Chumpitaz_Heli             	FCI            	Fisica                        	N/A            	N/A                                               	N/A            
+8528      	Andriy_Shevchenko                  	N/A            	N/A                           	Ucrania        	[Ruso, Polaco, Chino]                             	Semestres (3)  
+20164217  	Palomares_Vera_Henrry_Humberto     	EEGGCC         	Física                        	N/A            	N/A                                               	N/A            
+6553      	James_Smith                        	N/A            	N/A                           	Estados_Unidos 	[Inglés, Chino, Coreano]                          	Semestres (2)  
+1346      	Amina_Ngoh                         	N/A            	N/A                           	Camerun        	[Francés, Italiano]                               	Semestres (1)  
+20110165  	Landeo_Sueldo_Adolfo               	EEGGCC         	Ingeniería_Informática        	N/A            	N/A                                               	N/A            
+6965      	Ana_Calizaya                       	N/A            	N/A                           	Bolivia        	[Castellano, Quechua, Aymara, Alemán, Inglés]     	Semestres (3)  
+20167828  	Pasquel_Quio_Surami_Janet          	EEGGCC         	Física                        	N/A            	N/A                                               	N/A            
+=============================================================================================================================================================================================
+
+============================= Menú del día ======================================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: S/ 2.50
+Disponile: Sí
+Tipo: Café
+---------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: S/ 3.20
+Disponile: Sí
+Tipo: Café
+---------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: S/ 3.00
+Disponile: Sí
+Tipo: Café
+---------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: S/ 2.00
+Disponile: Sí
+Tipo: Café
+---------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: S/ 3.80
+Disponile: Sí
+Tipo: Chocolate
+---------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: S/ 4.00
+Disponile: Sí
+Tipo: Chocolate
+---------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: S/ 2.70
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: S/ 2.50
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: S/ 2.20
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: S/ 2.50
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: S/ 3.00
+Disponile: Sí
+Tipo: Café
+---------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: S/ 3.50
+Disponile: Sí
+Tipo: Café
+---------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: S/ 2.60
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: S/ 3.20
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: S/ 2.80
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: S/ 3.90
+Disponile: Sí
+Tipo: Chocolate
+---------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: S/ 3.10
+Disponile: Sí
+Tipo: Infusión
+---------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: S/ 2.50
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+---------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: S/ 3.00
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+---------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: S/ 2.80
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+---------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: S/ 3.20
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+---------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: S/ 3.50
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+---------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20160658:Arca_Amezquita_Edric_Ronald =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20119778:Morales_Valverde_Ines_Martha =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en JA(Japón) para, 5258:Haruto_Suzuki =========================
+B001: ダブルエスプレッソ
+アラビカとロブスタのブレンドで強い味わいのエスプレッソ
+Precio: JPY 86.97
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: カフェラテ
+スムーズでクリーミーなコーヒーと蒸したミルクのブレンドで繊細なテクスチャー
+Precio: JPY 111.32
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: クラシックカプチーノ
+完璧な割合のエスプレッソとスチームミルク、そしてココアの風味
+Precio: JPY 104.37
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: アメリカーノ
+薄めたロブスタコーヒーで、強いがそれほど濃くない風味を提供
+Precio: JPY 69.58
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: ダークチョコレートモカ
+エスプレッソとダークチョコレートの美味しい組み合わせにホイップクリームをトッピング
+Precio: JPY 132.20
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: クリーミーなホットチョコレート
+クリーミーなタッチのある濃厚なホットチョコレートは寒い日に最適
+Precio: JPY 139.16
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: 抹茶グリーンティー
+土のような風味と少し甘い味わいの抹茶パウダー
+Precio: JPY 93.93
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: アールグレイブラックティー
+ベルガモットオイルの柑橘系アロマが香る高品質の紅茶
+Precio: JPY 86.97
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: カモミールティー
+リラックスに最適なカモミールフラワーの優しい抽出
+Precio: JPY 76.54
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: ラベンダー抽出物
+落ち着く香りの乾燥ラベンダーの抽出、感覚を和らげるのに最適
+Precio: JPY 86.97
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: スキムミルクコーヒー
+スキムミルク入りの滑らかなコーヒーで軽やかかつ満足のいく風味
+Precio: JPY 104.37
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: コールドブリューコーヒー
+滑らかで酸味が少ないコールドブリューコーヒー
+Precio: JPY 121.76
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: バニラルイボスティー
+バニラの風味を加えた、自然に甘くカフェインフリーのルイボスティー
+Precio: JPY 90.45
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: チャイラテ
+シナモンやカルダモンなどのスパイスを加えた黒茶とスチームミルクのミックス
+Precio: JPY 111.32
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: 生姜ティーと蜂蜜
+新鮮な生姜と蜂蜜のスパイシーな飲み物で体を温める
+Precio: JPY 97.41
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: チョコレート_with_シナモン
+美味しいホットチョコレートとシナモンの風味
+Precio: JPY 135.68
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: 生姜とナツメグのインフュージョン
+生姜とナツメグのインフュージョン
+Precio: JPY 107.85
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: バニラアイスクリーム
+高品質な材料で作られたクリーミーバニラアイスクリーム
+Precio: JPY 86.97
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: チョコレートアイスクリーム
+純粋なココアを使った美味しいチョコレートアイスクリーム
+Precio: JPY 104.37
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: ストロベリーアイスクリーム
+果肉入りの爽やかなストロベリーアイスクリーム
+Precio: JPY 97.41
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: ミントチョコレートチップアイスクリーム
+小さなチョコレート片入りのクリーミーなミントアイスクリーム
+Precio: JPY 111.32
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: 塩キャラメルアイスクリーム
+海の塩の香りが漂うクリーミーな塩キャラメルアイスクリーム
+Precio: JPY 121.76
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20150564:Auris_Zimic_Javier_Daniel =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20080667:Lozada_Yino_Martha =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20127352:Justino_Cruz_Williams =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en DE(Austria) para, 5395:Johann_Weber =========================
+B001: Espresso_Doppio
+Ein_intensiver_Espresso_mit_einer_Mischung_aus_Arabica_und_Robusta_Kaffee_für_einen_ausgewogenen_und_starken_Geschmack
+Precio: EUR 0.57
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Latte
+Sanft_und_cremig_zubereitet_mit_einer_Mischung_aus_Kaffee_und_aufgeschäumter_Milch_für_eine_zarte_Textur
+Precio: EUR 0.73
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Klassischer_Cappuccino
+Klassischer_Cappuccino_mit_einem_perfekten_Verhältnis_von_Espresso_aufgeschäumter_Milch_und_einem_Hauch_von_Kakao
+Precio: EUR 0.68
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Amerikaner
+Ein_verdünnter_Robusta-Kaffee_der_einen_starken_aber_weniger_konzentrierten_Geschmack_bietet
+Precio: EUR 0.46
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Dunkle_Schokoladen-Mocha
+Eine_köstliche_Kombination_aus_Espresso_und_dunkler_Schokolade_garniert_mit_Schlagsahne
+Precio: EUR 0.87
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Cremige_Heiße_Schokolade
+Dickflüssige_heiße_Schokolade_mit_einer_cremigen_Note_perfekt_für_kalte_Tage
+Precio: EUR 0.91
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Matcha_Grüner_Tee
+Matcha-Grüntee-Pulver_mit_einem_erdigen_und_leicht_süßen_Geschmack
+Precio: EUR 0.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Earl_Grey_Schwarzer_Tee
+Hochwertiger_Schwarztee_mit_dem_zitrusartigen_Aroma_von_Bergamottöl
+Precio: EUR 0.57
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Kamillenaufguss
+Sanfter_Aufguss_aus_Kamillenblüten_perfekt_zum_Entspannen
+Precio: EUR 0.50
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Lavendelaufguss
+Entspannender_Aufguss_aus_getrocknetem_Lavendel,_ideal_zur_Beruhigung_der_Sinne
+Precio: EUR 0.57
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Kaffee_mit_Magermilch
+Sanfter_Kaffee_mit_Magermilch_für_einen_leichten,_aber_befriedigenden_Geschmack
+Precio: EUR 0.68
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Kalter_Brühkaffee
+Sanft_und_weniger_säurehaltiger_kalt_gebrühter_Kaffee
+Precio: EUR 0.80
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Vanille_Rooibos_Tee
+Natürlich_süße_und_koffeinfreie_Rooibos-Infusion_mit_einem_Hauch_vanille
+Precio: EUR 0.59
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Gewürzmischung_aus_Schwarztee_aufgeschäumter_Milch_und_Gewürzen_wie_Zimt_und_Kardamom
+Precio: EUR 0.73
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Ingwer_Tee_mit_Honig
+Würzige_Infusion_aus_frischem_Geruch_und_Honig_um_den_Körper_zu_wärmen
+Precio: EUR 0.64
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Schokolade_mit_Zimt
+Leckere_heiße_Schokolade_mit_einem_Hauch_von_Zimtpulver
+Precio: EUR 0.89
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Ingwer_und_Nelkenmischung
+Würzige_Ginger_mit_frischem_Ginger_und_Nelke_Für_einen_warmen_Geschmack
+Precio: EUR 0.71
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Vanilleeis
+Cremiges_Vanilleeis_hergestellt_aus_hochwertigen_Zutaten
+Precio: EUR 0.57
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Schokoladeneis
+Köstliches_Schokoladeneis_mit_reinem_Kakao
+Precio: EUR 0.68
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Erdbeereis
+Erfrischendes_Erdbeereis_mit_Fruchtstücken
+Precio: EUR 0.64
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Minz-Schokoladeneis
+Cremiges_Minz-Schokoladeneis_mit_kleinen_Schokoladenstückchen
+Precio: EUR 0.73
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Salzkaramelleis
+Cremiges_Salzkaramelleis_mit_einer_Nuance_von_Meeressalz
+Precio: EUR 0.80
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20120476:Henriquez_Espino_Beatriz =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20160119:Paredes_Patino_Christian =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20109738:Caro_Polo_Sandro =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20003541:Cabrera_Canales_Guillermo_Edric =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en FIL(Filipinas) para, 4450:Carlo_Reyes =========================
+B001: Espreso_Dobleng
+Isang_matapang_na_espresso_na_may_halung_mong_Café_Arabica_at_Robusta_para_sa_isang_balanseng_at_malakas_na_lasa
+Precio: PHP 36.74
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Latte
+Malambot_at_creamy_na_inihanda_gamit_ang_isang_halo_ng_kape_at_malapot_na_gatas_para_sa_isang_mahinahong_texture
+Precio: PHP 47.03
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Klasiko
+Klassikong_cappuccino_na_may_perpektong_proporsyon_ng_espresso_at_espumosong_gatas_at_isang_haplos_ng_cacao
+Precio: PHP 44.09
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Amerikano
+Isang_diluted_na_Robusta_na_kape_na_nag-aalok_ng_malakas_pero_hindi_masyadong_concentrated_na_lasa
+Precio: PHP 29.39
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Madilim_na_Chocolate_Mocha
+Isang_masarap_na_kumbinasyon_ng_espresso_at_madilim_na_tsokolate_na_pinuno_ng_whipped_cream
+Precio: PHP 55.85
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Malapot_na_Mainit_na_Chocolate
+Makapal_na_tsokolate_na_may_creamy_na_haplos_na_perpekto_para_sa_malamig_na_aru
+Precio: PHP 58.79
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Matcha_Berdeng_Tsaa
+Matcha_na_tsaa_na_pulbos_na_may_makalupang_lasa_at_bahagyang_matamis
+Precio: PHP 39.68
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Earl_Grey_Itim_na_Tsaa
+Mataas_na_kalidad_na_itim_na_tsaa_na_may_aromang_sitrus_ng_langis_ng_bergamota
+Precio: PHP 36.74
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Mansanilya_Infusion
+Banayad_na_pagbubuhos_ng_bulaklak_ng_mansanilya_perpekto_para_sa_pagpapahinga
+Precio: PHP 32.33
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Lavanda_Infusion
+Nakakarelaks_na_pagbubuhos_ng_tuyo_na_lavanda,_mainam_upang_kalmahin_ang_isipan
+Precio: PHP 36.74
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Kape_na_may_Skimmed_Gatas
+Banayad_na_kape_na_may_skimmed_na_gatas_para_sa_magaan_pero_kasiya-siyang_lasa
+Precio: PHP 44.09
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Malamig_na_Coffee_Brew
+Banayad_at_hindi_ganun_kaasidong_cold-brew_na_kape
+Precio: PHP 51.44
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Tsaa_ng_Rooibos_na_May_Vanilla
+Likas_na_matamis_at_walang_kapein_na_rooibos_na_may_bahagyang_vanilla
+Precio: PHP 38.21
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Spiced_na_halo_ng_itim_na_tsaa,_pinasingawang_gatas,_at_mga_spices_tulad_ng_cinnamon_at_cardamom
+Precio: PHP 47.03
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Tsaa_ng_ginger_na_may_honey
+Maanghang_na_ina_ng_ginger_at_miel_upang_painitin_ang_kanilang_katawan
+Precio: PHP 41.15
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Tsokolate_na_may_cinnamon
+Masarap_na_mainit_na_tsokolate_na_may_habang_cinnamon
+Precio: PHP 57.32
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Luya_at_Nuez_Moscada_Infusion
+Infusyon_na_maanghang_na_ginger_at_nuez_moscada_para_sa_isang_malasa_at_masahimpapawid
+Precio: PHP 45.56
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Sorbetes_ng_Banilya
+Malambot_na_sorbetes_ng_banilya_na_gawa_sa_mga_matataas_na_kalidad_na_sangkap
+Precio: PHP 36.74
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Sorbetes_ng_Tsokolate
+Masarap_na_sorbetes_ng_tsokolate_na_gawa_sa_purong_kakao
+Precio: PHP 44.09
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Sorbetes_ng_Presa
+Masigla_na_sorbetes_ng_presa_na_may_mga_piraso_ng_prutas
+Precio: PHP 41.15
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Sorbetes_ng_Mentha_at_Tsokolate
+Malambot_na_sorbetes_ng_menta_na_may_maliit_na_piraso_ng_tsokolate
+Precio: PHP 47.03
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Sorbetes_ng_Salted_Caramel
+Malambot_na_sorbetes_ng_caramelo_na_may_bakas_ng_asin_dagat
+Precio: PHP 51.44
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en DE(Alemania) para, 7613:Anna_Schneider =========================
+B001: Espresso_Doppio
+Ein_intensiver_Espresso_mit_einer_Mischung_aus_Arabica_und_Robusta_Kaffee_für_einen_ausgewogenen_und_starken_Geschmack
+Precio: EUR 0.57
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Latte
+Sanft_und_cremig_zubereitet_mit_einer_Mischung_aus_Kaffee_und_aufgeschäumter_Milch_für_eine_zarte_Textur
+Precio: EUR 0.73
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Klassischer_Cappuccino
+Klassischer_Cappuccino_mit_einem_perfekten_Verhältnis_von_Espresso_aufgeschäumter_Milch_und_einem_Hauch_von_Kakao
+Precio: EUR 0.68
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Amerikaner
+Ein_verdünnter_Robusta-Kaffee_der_einen_starken_aber_weniger_konzentrierten_Geschmack_bietet
+Precio: EUR 0.46
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Dunkle_Schokoladen-Mocha
+Eine_köstliche_Kombination_aus_Espresso_und_dunkler_Schokolade_garniert_mit_Schlagsahne
+Precio: EUR 0.87
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Cremige_Heiße_Schokolade
+Dickflüssige_heiße_Schokolade_mit_einer_cremigen_Note_perfekt_für_kalte_Tage
+Precio: EUR 0.91
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Matcha_Grüner_Tee
+Matcha-Grüntee-Pulver_mit_einem_erdigen_und_leicht_süßen_Geschmack
+Precio: EUR 0.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Earl_Grey_Schwarzer_Tee
+Hochwertiger_Schwarztee_mit_dem_zitrusartigen_Aroma_von_Bergamottöl
+Precio: EUR 0.57
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Kamillenaufguss
+Sanfter_Aufguss_aus_Kamillenblüten_perfekt_zum_Entspannen
+Precio: EUR 0.50
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Lavendelaufguss
+Entspannender_Aufguss_aus_getrocknetem_Lavendel,_ideal_zur_Beruhigung_der_Sinne
+Precio: EUR 0.57
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Kaffee_mit_Magermilch
+Sanfter_Kaffee_mit_Magermilch_für_einen_leichten,_aber_befriedigenden_Geschmack
+Precio: EUR 0.68
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Kalter_Brühkaffee
+Sanft_und_weniger_säurehaltiger_kalt_gebrühter_Kaffee
+Precio: EUR 0.80
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Vanille_Rooibos_Tee
+Natürlich_süße_und_koffeinfreie_Rooibos-Infusion_mit_einem_Hauch_vanille
+Precio: EUR 0.59
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Gewürzmischung_aus_Schwarztee_aufgeschäumter_Milch_und_Gewürzen_wie_Zimt_und_Kardamom
+Precio: EUR 0.73
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Ingwer_Tee_mit_Honig
+Würzige_Infusion_aus_frischem_Geruch_und_Honig_um_den_Körper_zu_wärmen
+Precio: EUR 0.64
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Schokolade_mit_Zimt
+Leckere_heiße_Schokolade_mit_einem_Hauch_von_Zimtpulver
+Precio: EUR 0.89
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Ingwer_und_Nelkenmischung
+Würzige_Ginger_mit_frischem_Ginger_und_Nelke_Für_einen_warmen_Geschmack
+Precio: EUR 0.71
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Vanilleeis
+Cremiges_Vanilleeis_hergestellt_aus_hochwertigen_Zutaten
+Precio: EUR 0.57
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Schokoladeneis
+Köstliches_Schokoladeneis_mit_reinem_Kakao
+Precio: EUR 0.68
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Erdbeereis
+Erfrischendes_Erdbeereis_mit_Fruchtstücken
+Precio: EUR 0.64
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Minz-Schokoladeneis
+Cremiges_Minz-Schokoladeneis_mit_kleinen_Schokoladenstückchen
+Precio: EUR 0.73
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Salzkaramelleis
+Cremiges_Salzkaramelleis_mit_einer_Nuance_von_Meeressalz
+Precio: EUR 0.80
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20170596:Portugal_Benavente_Johana_Gloria =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en PT(Brasil) para, 9442:João_Silva =========================
+B001: Espresso_Duplo
+Um_espresso_intenso_com_uma_mistura_de_Café_Arabica_e_Robusta_para_um_sabor_equilibrado_e_forte
+Precio: BRL 3.11
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_e_cremoso_feito_com_uma_mistura_de_cafés_e_leite_vaporizado_para_uma_textura_delicada
+Precio: BRL 3.98
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clássico
+Cappuccino_clássico_com_uma_perfeita_proporção_de_espresso_de_leite_vaporizado_e_um_toque_de_cacau
+Precio: BRL 3.73
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Um_café_Robusta_diluído_oferecendo_um_sabor_forte_mas_menos_concentrado
+Precio: BRL 2.49
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Escuro
+Uma_deliciosa_combinação_de_espresso_e_chocolate_escuro_coberto_com_creme_batido
+Precio: BRL 4.73
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Quente_Cremoso
+Chocolate_quente_espesso_com_um_toque_cremoso_perfeito_para_dias_frios
+Precio: BRL 4.98
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Chá_Verde_Matcha
+Pó_de_chá_verde_matcha_com_sabor_terroso_e_levemente_doce
+Precio: BRL 3.36
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Chá_Preto_Earl_Grey
+Chá_preto_de_alta_qualidade_com_aroma_cítrico_de_óleo_de_bergamota
+Precio: BRL 3.11
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusão_de_Camomila
+Infusão_suave_de_flores_de_camomila_perfeita_para_relaxar
+Precio: BRL 2.74
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusão_de_Lavanda
+Infusão_relaxante_de_lavanda_seca,_ideal_para_acalmar_os_sentidos
+Precio: BRL 3.11
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_com_Leite_Desnatado
+Café_suave_com_leite_desnatado_para_um_sabor_leve,_mas_satisfatório
+Precio: BRL 3.73
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Infusionado_a_Frío
+Café_a_frio_com_sabor_suave_e_menos_ácido
+Precio: BRL 4.36
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Chá_de_Rooibos_com_Baunilha
+Infusão_de_rooibos_naturalmente_doce_e_sem_cafeína_com_um_toque_de_baunilha
+Precio: BRL 3.24
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mistura_temperada_de_chá_preto_leite_vaporizado_e_especiarias_como_canela_e_cardamomo
+Precio: BRL 3.98
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Chá_de_Gengibre_com_Mel
+Infusão_temperada_de_gengibre_fresco_e_mel_para_aquecer_o_corpo
+Precio: BRL 3.48
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_com_Canela
+Deliciosa_chocolate_quente_com_um_toque_de_canela_molhada
+Precio: BRL 4.85
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusão_de_Gengibre_e_Noz_Moscada
+Infusão_de_Gengibre_e_Noz_Moscada
+Precio: BRL 3.86
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Sorvete_de_Baunilha
+Sorvete_de_baunilha_cremoso_feito_com_ingredientes_de_alta_qualidade
+Precio: BRL 3.11
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Sorvete_de_Chocolate
+Delicioso_sorvete_de_chocolate_com_cacau_puro
+Precio: BRL 3.73
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Sorvete_de_Morango
+Sorvete_de_morango_refrescante_com_pedaços_de_fruta
+Precio: BRL 3.48
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Sorvete_de_Menta_e_Chocolate
+Sorvete_cremoso_de_menta_com_pequenos_pedaços_de_chocolate
+Precio: BRL 3.98
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Sorvete_de_Caramelo_Salgado
+Sorvete_cremoso_de_caramelo_com_um_toque_de_sal_marinho
+Precio: BRL 4.36
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Colombia) para, 2075:Aranda_Johnny =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: COP 2660.31
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: COP 3405.20
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: COP 3192.37
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: COP 2128.25
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: COP 4043.67
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: COP 4256.49
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: COP 2873.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: COP 2660.31
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: COP 2341.07
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: COP 2660.31
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: COP 3192.37
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: COP 3724.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: COP 2766.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: COP 3405.20
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: COP 2979.55
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: COP 4150.08
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: COP 3298.78
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: COP 2660.31
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: COP 3192.37
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: COP 2979.55
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: COP 3405.20
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: COP 3724.43
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20083333:Laura_Wong_Melvin_Henrry =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en EN(Australia) para, 6702:Emma_Taylor =========================
+B001: Double_Espresso
+An_intense_espresso_with_a_blend_of_Arabica_and_Robusta_coffee_for_a_balanced_and_strong_flavor
+Precio: AUD 0.95
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Latte
+Smooth_and_creamy_made_with_a_blend_of_coffees_and_steamed_milk_for_a_delicate_texture
+Precio: AUD 1.22
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Classic_Cappuccino
+Classic_cappuccino_with_a_perfect_ratio_of_espresso_steamed_milk_and_a_touch_of_cocoa
+Precio: AUD 1.14
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+A_diluted_Robusta_coffee_offering_a_strong_but_less_concentrated_flavor
+Precio: AUD 0.76
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Dark_Chocolate_Mocha
+A_delicious_combination_of_espresso_and_dark_chocolate_topped_with_whipped_cream
+Precio: AUD 1.44
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Creamy_Hot_Chocolate
+Thick_hot_chocolate_with_a_creamy_touch_perfect_for_cold_days
+Precio: AUD 1.52
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Matcha_Green_Tea
+Matcha_green_tea_powder_with_an_earthy_and_slightly_sweet_flavor
+Precio: AUD 1.03
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Earl_Grey_Black_Tea
+High-quality_black_tea_with_a_citrus_aroma_of_bergamot_oil
+Precio: AUD 0.95
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Chamomile_Infusion
+Gentle_infusion_of_chamomile_flowers_perfect_for_relaxation
+Precio: AUD 0.84
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Lavender_Infusion
+Relaxing_infusion_of_dried_lavender_ideal_to_calm_the_senses
+Precio: AUD 0.95
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Skimmed_Milk_Coffee
+Smooth_coffee_with_skimmed_milk_for_a_light_but_satisfying_flavor
+Precio: AUD 1.14
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Cold_Brew_Coffee
+Smooth_and_less_acidic_cold-brewed_coffee
+Precio: AUD 1.33
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Vanilla_Rooibos_Tea
+Naturally_sweet_and_caffeine-free_rooibos_infusion_with_a_hint_of_vanilla
+Precio: AUD 0.99
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Spiced_blend_of_black_tea_steamed_milk_and_spices_like_cinnamon_and_cardamom
+Precio: AUD 1.22
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Ginger_Tea_with_Honey
+Spicy_infusion_of_fresh_ginger_and_honey_to_warm_the_body
+Precio: AUD 1.06
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_with_Cinnamon
+Delicious_hot_chocolate_with_a_hint_of_ground_cinnamon
+Precio: AUD 1.48
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Ginger_and_Nutmeg_Infusion
+Spicy_ginger_infused_with_fresh_ginger_and_nutmeg_for_a_warm_and_spicy_flavor
+Precio: AUD 1.18
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Vanilla_Ice_Cream
+Creamy_vanilla_ice_cream_made_with_high-quality_ingredients
+Precio: AUD 0.95
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Chocolate_Ice_Cream
+Delicious_chocolate_ice_cream_with_pure_cocoa
+Precio: AUD 1.14
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Strawberry_Ice_Cream
+Refreshing_strawberry_ice_cream_with_fruit_chunks
+Precio: AUD 1.06
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Mint_Chocolate_Chip_Ice_Cream
+Creamy_mint_ice_cream_with_small_chocolate_chunks
+Precio: AUD 1.22
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Salted_Caramel_Ice_Cream
+Creamy_caramel_ice_cream_with_a_hint_of_sea_salt
+Precio: AUD 1.33
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Puerto_Rico) para, 1994:Isabel_Martínez =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: USD 0.64
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: USD 0.82
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: USD 0.77
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: USD 0.51
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: USD 0.97
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: USD 1.03
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: USD 0.69
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: USD 0.64
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: USD 0.56
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: USD 0.64
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: USD 0.77
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: USD 0.90
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: USD 0.67
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: USD 0.82
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: USD 0.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: USD 1.00
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: USD 0.80
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: USD 0.64
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: USD 0.77
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: USD 0.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: USD 0.82
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: USD 0.90
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20097877:Coronel_Chumpitaz_Heli =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en UK(Ucrania) para, 8528:Andriy_Shevchenko =========================
+B001: Double_Espresso
+An_intense_espresso_with_a_blend_of_Arabica_and_Robusta_coffee_for_a_balanced_and_strong_flavor
+Precio: UAH 18.62
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Latte
+Smooth_and_creamy_made_with_a_blend_of_coffees_and_steamed_milk_for_a_delicate_texture
+Precio: UAH 23.83
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Classic_Cappuccino
+Classic_cappuccino_with_a_perfect_ratio_of_espresso_steamed_milk_and_a_touch_of_cocoa
+Precio: UAH 22.34
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+A_diluted_Robusta_coffee_offering_a_strong_but_less_concentrated_flavor
+Precio: UAH 14.90
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Dark_Chocolate_Mocha
+A_delicious_combination_of_espresso_and_dark_chocolate_topped_with_whipped_cream
+Precio: UAH 28.30
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Creamy_Hot_Chocolate
+Thick_hot_chocolate_with_a_creamy_touch_perfect_for_cold_days
+Precio: UAH 29.79
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Matcha_Green_Tea
+Matcha_green_tea_powder_with_an_earthy_and_slightly_sweet_flavor
+Precio: UAH 20.11
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Earl_Grey_Black_Tea
+High-quality_black_tea_with_a_citrus_aroma_of_bergamot_oil
+Precio: UAH 18.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Chamomile_Infusion
+Gentle_infusion_of_chamomile_flowers_perfect_for_relaxation
+Precio: UAH 16.39
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Lavender_Infusion
+Relaxing_infusion_of_dried_lavender_ideal_to_calm_the_senses
+Precio: UAH 18.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Skimmed_Milk_Coffee
+Smooth_coffee_with_skimmed_milk_for_a_light_but_satisfying_flavor
+Precio: UAH 22.34
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Cold_Brew_Coffee
+Smooth_and_less_acidic_cold-brewed_coffee
+Precio: UAH 26.07
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Vanilla_Rooibos_Tea
+Naturally_sweet_and_caffeine-free_rooibos_infusion_with_a_hint_of_vanilla
+Precio: UAH 19.36
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Spiced_blend_of_black_tea_steamed_milk_and_spices_like_cinnamon_and_cardamom
+Precio: UAH 23.83
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Ginger_Tea_with_Honey
+Spicy_infusion_of_fresh_ginger_and_honey_to_warm_the_body
+Precio: UAH 20.85
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_with_Cinnamon
+Delicious_hot_chocolate_with_a_hint_of_ground_cinnamon
+Precio: UAH 29.05
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Ginger_and_Nutmeg_Infusion
+Ginger_and_Nutmeg_Infusion
+Precio: UAH 23.09
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Vanilla_Ice_Cream
+Creamy_vanilla_ice_cream_made_with_high-quality_ingredients
+Precio: UAH 18.62
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Chocolate_Ice_Cream
+Delicious_chocolate_ice_cream_with_pure_cocoa
+Precio: UAH 22.34
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Strawberry_Ice_Cream
+Refreshing_strawberry_ice_cream_with_fruit_chunks
+Precio: UAH 20.85
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Mint_Chocolate_Chip_Ice_Cream
+Creamy_mint_ice_cream_with_small_chocolate_chunks
+Precio: UAH 23.83
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Salted_Caramel_Ice_Cream
+Creamy_caramel_ice_cream_with_a_hint_of_sea_salt
+Precio: UAH 26.07
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20164217:Palomares_Vera_Henrry_Humberto =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en EN(Estados_Unidos) para, 6553:James_Smith =========================
+B001: Double_Espresso
+An_intense_espresso_with_a_blend_of_Arabica_and_Robusta_coffee_for_a_balanced_and_strong_flavor
+Precio: USD 0.64
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Latte
+Smooth_and_creamy_made_with_a_blend_of_coffees_and_steamed_milk_for_a_delicate_texture
+Precio: USD 0.82
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Classic_Cappuccino
+Classic_cappuccino_with_a_perfect_ratio_of_espresso_steamed_milk_and_a_touch_of_cocoa
+Precio: USD 0.77
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+A_diluted_Robusta_coffee_offering_a_strong_but_less_concentrated_flavor
+Precio: USD 0.51
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Dark_Chocolate_Mocha
+A_delicious_combination_of_espresso_and_dark_chocolate_topped_with_whipped_cream
+Precio: USD 0.97
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Creamy_Hot_Chocolate
+Thick_hot_chocolate_with_a_creamy_touch_perfect_for_cold_days
+Precio: USD 1.03
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Matcha_Green_Tea
+Matcha_green_tea_powder_with_an_earthy_and_slightly_sweet_flavor
+Precio: USD 0.69
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Earl_Grey_Black_Tea
+High-quality_black_tea_with_a_citrus_aroma_of_bergamot_oil
+Precio: USD 0.64
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Chamomile_Infusion
+Gentle_infusion_of_chamomile_flowers_perfect_for_relaxation
+Precio: USD 0.56
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Lavender_Infusion
+Relaxing_infusion_of_dried_lavender_ideal_to_calm_the_senses
+Precio: USD 0.64
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Skimmed_Milk_Coffee
+Smooth_coffee_with_skimmed_milk_for_a_light_but_satisfying_flavor
+Precio: USD 0.77
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Cold_Brew_Coffee
+Smooth_and_less_acidic_cold-brewed_coffee
+Precio: USD 0.90
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Vanilla_Rooibos_Tea
+Naturally_sweet_and_caffeine-free_rooibos_infusion_with_a_hint_of_vanilla
+Precio: USD 0.67
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Spiced_blend_of_black_tea_steamed_milk_and_spices_like_cinnamon_and_cardamom
+Precio: USD 0.82
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Ginger_Tea_with_Honey
+Spicy_infusion_of_fresh_ginger_and_honey_to_warm_the_body
+Precio: USD 0.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_with_Cinnamon
+Delicious_hot_chocolate_with_a_hint_of_ground_cinnamon
+Precio: USD 1.00
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Ginger_and_Nutmeg_Infusion
+Spicy_ginger_infused_with_fresh_ginger_and_nutmeg_for_a_warm_and_spicy_flavor
+Precio: USD 0.80
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Vanilla_Ice_Cream
+Creamy_vanilla_ice_cream_made_with_high-quality_ingredients
+Precio: USD 0.64
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Chocolate_Ice_Cream
+Delicious_chocolate_ice_cream_with_pure_cocoa
+Precio: USD 0.77
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Strawberry_Ice_Cream
+Refreshing_strawberry_ice_cream_with_fruit_chunks
+Precio: USD 0.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Mint_Chocolate_Chip_Ice_Cream
+Creamy_mint_ice_cream_with_small_chocolate_chunks
+Precio: USD 0.82
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Salted_Caramel_Ice_Cream
+Creamy_caramel_ice_cream_with_a_hint_of_sea_salt
+Precio: USD 0.90
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en FR(Camerun) para, 1346:Amina_Ngoh =========================
+B001: Espresso_Doppio
+Un_espresso_intense_avec_un_mélange_de_Café_Arabica_et_Robusta_pour_une_saveur_équilibrée_et_forte
+Precio: XAF 351.07
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Doux_et_crémeux_fait_avec_un_mélange_de_cafés_et_de_lait_vapeur_pour_une_texture_délicate
+Precio: XAF 449.37
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Classique
+Cappuccino_classique_avec_un_parfait_rapport_d'espresso_de_lait_vapeur_et_une_touche_de_cacao
+Precio: XAF 421.29
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Américain
+Un_café_Robusta_dilué_offrant_un_goût_fort_mais_moins_concentré
+Precio: XAF 280.86
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Moka_au_Chocolate_Noir
+Une_délicieuse_combinaison_d'espresso_et_de_chocolat_noir_surpoudrée_de_crème_fouettée
+Precio: XAF 533.63
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolat_Chaude_Crèmeux
+Chocolat_épais_avec_une_touche_crémeuse_parfait_pour_les_jours_froids
+Precio: XAF 561.72
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Thé_Vert_Matcha
+Poudre_de_thé_vert_matcha_au_saveur_terreuse_et_légèrement_sucrée
+Precio: XAF 379.16
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Thé_Noir_Earl_Grey
+Thé_noir_de_haute_qualité_avec_un_arôme_citronné_d'huile_de_bergamote
+Precio: XAF 351.07
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusion_de_Camomille
+Infusion_douce_de_fleurs_de_camomille_parfaite_pour_se_détendre
+Precio: XAF 308.94
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusion_de_Lavande
+Infusion_relaxante_de_lavande_séchée,_idéale_pour_calmer_les_sens
+Precio: XAF 351.07
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_au_Lait_Écrémé
+Café_doux_avec_lait_écrémé_pour_un_goût_léger_mais_satisfaisant
+Precio: XAF 421.29
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Infusé_à_Froid
+Café_infusé_à_froid_doux_et_moins_acide
+Precio: XAF 491.50
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Thé_Rooibos_à_la_Vanille
+Infusion_de_rooibos_naturellement_sucrée_et_sans_caféine_avec_une_touche_de_vanille
+Precio: XAF 365.12
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mélange_épicé_de_thé_noir_de_lait_vapeur_et_d'épices_comme_la_cannelle_et_le_cardaomome
+Precio: XAF 449.37
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Thé_de_Gingembre_au_Miel
+Infusion_epicée_de_gingembre_frais_et_miel_pour_chauffer_le_corps
+Precio: XAF 393.20
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolat_au_Cannelle
+Délicieux_chocolat_chaud_avec_une_touche_de_cannelle_moulue
+Precio: XAF 547.67
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusion_de_Gingembre_et_Muscade
+Un_infusion_epicé_de_gingembre_et_noix_de_muscade_pour_une_saveur_chaleureuse_et_epicée
+Precio: XAF 435.33
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Glace_à_la_Vanille
+Glace_à_la_vanille_crémeuse_faite_avec_des_ingrédients_de_haute_qualité
+Precio: XAF 351.07
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Glace_au_Chocolat
+Délicieuse_glace_au_chocolat_avec_du_cacao_pur
+Precio: XAF 421.29
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Glace_à_la_Fraise
+Glace_à_la_fraise_rafraîchissante_avec_des_morceaux_de_fruit
+Precio: XAF 393.20
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Glace_Menthe-Chocolat
+Glace_crémeuse_à_la_menthe_avec_de_petits_morceaux_de_chocolat
+Precio: XAF 449.37
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Glace_au_Caramel_Salé
+Glace_au_caramel_crémeuse_avec_une_pointe_de_sel_de_mer
+Precio: XAF 491.50
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20110165:Landeo_Sueldo_Adolfo =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Bolivia) para, 6965:Ana_Calizaya =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: BOB 4.25
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: BOB 5.44
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: BOB 5.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: BOB 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: BOB 6.46
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: BOB 6.80
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: BOB 4.59
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: BOB 4.25
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: BOB 3.74
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: BOB 4.25
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: BOB 5.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: BOB 5.95
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: BOB 4.42
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: BOB 5.44
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: BOB 4.76
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: BOB 6.63
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: BOB 5.27
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: BOB 4.25
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: BOB 5.10
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: BOB 4.76
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: BOB 5.44
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: BOB 5.95
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
+
+================ Menú en ES(Perú) para, 20167828:Pasquel_Quio_Surami_Janet =========================
+B001: Espresso_Doble
+Un_espresso_intenso_con_una_mezcla_de_Café_Arábica_y_Robusta_para_un_sabor_equilibrado_y_fuerte
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B002: Café_Latte
+Suave_y_cremoso_elaborado_con_una_mezcla_de_cafés_y_leche_vaporizada_para_una_textura_delicada
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B003: Cappuccino_Clásico
+Clásico_cappuccino_con_una_perfecta_proporción_de_espresso_leche_espumosa_y_un_toque_de_cacao
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B004: Americano
+Un_café_Robusta_diluido_ofreciendo_un_sabor_fuerte_pero_menos_concentrado
+Precio: PEN 1.94
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B005: Mocha_de_Chocolate_Oscuro
+Una_deliciosa_combinación_de_espresso_y_chocolate_oscuro_coronado_con_crema_batida
+Precio: PEN 3.69
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B006: Chocolate_Caliente_Cremoso
+Chocolate_caliente_espeso_con_un_toque_cremoso_ideal_para_los_días_fríos
+Precio: PEN 3.88
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B007: Té_Verde_Matcha
+Té_verde_matcha_en_polvo_con_un_sabor_terroso_y_ligeramente_dulce
+Precio: PEN 2.62
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B008: Té_Negro_Earl_Grey
+Té_negro_de_alta_calidad_con_el_aroma_cítrico_del_aceite_de_bergamota
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B009: Infusión_de_Manzanilla
+Suave_infusión_de_flores_de_manzanilla_perfecta_para_relajarse
+Precio: PEN 2.13
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B010: Infusión_de_Lavanda
+Relajante_infusión_de_lavanda_seca_ideal_para_calmar_los_sentidos
+Precio: PEN 2.43
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B011: Café_con_Leche_Descremada
+Café_suave_con_leche_descremada_para_un_sabor_ligero_pero_satisfactorio
+Precio: PEN 2.91
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B012: Café_Cold_Brew
+Café_infusionado_en_frío_con_un_sabor_suave_y_menos_ácido
+Precio: PEN 3.40
+Disponile: Sí
+Tipo: Café
+----------------------------------------------------------------------------------------------------
+B013: Té_Rooibos_Vainílla
+Infusión_de_rooibos_con_un_toque_de_vainílla_naturalmente_dulce_y_sin_cafeína
+Precio: PEN 2.52
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B014: Chai_Latte
+Mezcla_especiada_de_té_negro_leche_vaporizada_y_especias_como_canéla_y_cardamomo
+Precio: PEN 3.10
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B015: Té_de_Jengíbre_con_Miel
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 2.72
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+B016: Chocolate_con_Canéla
+Delicioso_chocolate_caliente_con_un_toque_de_canéla_molida
+Precio: PEN 3.78
+Disponile: Sí
+Tipo: Chocolate
+----------------------------------------------------------------------------------------------------
+B017: Infusión_de_Jengíbre_y_Nuez_Moscada
+Infusión_picante_de_jengíbre_fresco_y_miel_de_abeja_para_calentar_el_cuerpo
+Precio: PEN 3.01
+Disponile: Sí
+Tipo: Infusión
+----------------------------------------------------------------------------------------------------
+H001: Helado_de_Vainilla
+Cremoso_helado_de_vainilla_elaborado_con_ingredientes_de_alta_calidad
+Precio: PEN 2.43
+Disponile: Sí
+Toppings: [Jarabe_de_Chocolate, Confites, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H002: Helado_de_Chocolate
+Riquísimo_helado_de_chocolate_con_cacao_puro
+Precio: PEN 2.91
+Disponile: Sí
+Toppings: [Nueces_Trituradas, Crema_Batida, Jarabe_de_Chocolate]
+----------------------------------------------------------------------------------------------------
+H003: Helado_de_Fresa
+Refrescante_helado_de_fresa_con_trozos_de_fruta
+Precio: PEN 2.72
+Disponile: Sí
+Toppings: [Jarabe_de_fresa, Hojas_de_menta, Trozos_de_Waffle]
+----------------------------------------------------------------------------------------------------
+H004: Helado_de_Menta_y_Chocolate
+Helado_cremoso_de_menta_con_pequeños_trozos_de_chocolate
+Precio: PEN 3.10
+Disponile: Sí
+Toppings: [Chispas_de_chocolate, Menta, Crema_batida]
+----------------------------------------------------------------------------------------------------
+H005: Helado_de_Caramelo_Salado
+Cremoso_helado_de_caramelo_con_un_toque_de_sal_marina
+Precio: PEN 3.40
+Disponile: Sí
+Toppings: [Sal_marina, Salsa_de_caramelo, Trozos_de_waffle]
+----------------------------------------------------------------------------------------------------
