@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Pregunta3\bin\Debug\Pregunta3.exe.config
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Pregunta3\bin\Debug\Pregunta3.exe
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Pregunta3\bin\Debug\Pregunta3.pdb
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.exe
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.pdb
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\bin\Debug\Pregunta3.exe.config
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\bin\Debug\Pregunta3.exe
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\bin\Debug\Pregunta3.pdb
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.exe.config
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.exe
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Laboratorio1\Pregunta3\obj\Debug\Pregunta3.pdb

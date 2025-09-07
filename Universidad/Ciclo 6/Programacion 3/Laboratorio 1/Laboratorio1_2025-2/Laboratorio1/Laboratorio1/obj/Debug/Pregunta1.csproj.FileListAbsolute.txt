@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe.config
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.pdb
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\obj\Debug\Pregunta1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\obj\Debug\Pregunta1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.exe
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.pdb
+C:\Users\Lenovo\Documents\Visual Studio\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.exe.config
