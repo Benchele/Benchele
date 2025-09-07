@@ -1,0 +1,15 @@
+T:\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\bin\Debug\Lab01.exe.config
+T:\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\bin\Debug\Lab01.exe
+T:\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\bin\Debug\Lab01.pdb
+T:\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+T:\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+T:\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.exe
+T:\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.exe.config
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\Lenovo\Documents\Benjhamin\Universidades\PUCP\Cursos\Programacion 3\Labroatorios\Lab 2\Lab01_Ruiz_Benjhamin_20232242\Lab01\Lab01\obj\Debug\Lab01.pdb

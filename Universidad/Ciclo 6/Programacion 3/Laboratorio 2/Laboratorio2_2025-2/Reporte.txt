@@ -1,0 +1,11 @@
+===== SEGUROS PREDEFINIDOS =====
+Precio: 600.00, Descripción: Seguro básico vehicular
+Precio: 800.00, Descripción: Seguro básico vehicular + cobertura contra robos
+Precio: 900.00, Descripción: Seguro básico vehicular + cobertura contra robos + asistencia vial
+Precio: 1200.00, Descripción: Seguro básico vehicular + cobertura contra robos + asistencia vial + cobertura contra desastres naturales
+
+===== SEGUROS DECORADOS (Patrón Decorador) =====
+Precio: 600.00, Descripción: Seguro básico vehicular
+Precio: 800.00, Descripción: Seguro básico vehicular, cobertura contra robos
+Precio: 900.00, Descripción: Seguro básico vehicular, cobertura contra robos, asistencia vial
+Precio: 1200.00, Descripción: Seguro básico vehicular, cobertura contra robos, asistencia vial, cobertura contra desastres naturales
