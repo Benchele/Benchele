@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/zClion/MochilaValoresPeso/cmake-build-debug/CMakeFiles/MochilaValoresPeso.dir
+C:/Users/Lenovo/Documents/zClion/MochilaValoresPeso/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/zClion/MochilaValoresPeso/cmake-build-debug/CMakeFiles/rebuild_cache.dir
