@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio\Benchele\BencheleModel\bin\Debug\BencheleModel.dll
+C:\Users\Lenovo\Documents\Visual Studio\Benchele\BencheleModel\bin\Debug\BencheleModel.pdb
+C:\Users\Lenovo\Documents\Visual Studio\Benchele\BencheleModel\obj\Debug\BencheleModel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio\Benchele\BencheleModel\obj\Debug\BencheleModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio\Benchele\BencheleModel\obj\Debug\BencheleModel.dll
+C:\Users\Lenovo\Documents\Visual Studio\Benchele\BencheleModel\obj\Debug\BencheleModel.pdb
