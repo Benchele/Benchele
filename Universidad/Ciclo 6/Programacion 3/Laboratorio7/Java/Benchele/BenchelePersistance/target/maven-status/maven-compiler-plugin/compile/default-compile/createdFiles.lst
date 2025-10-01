@@ -1,0 +1,12 @@
+com\mycompany\daoImpl\DAOImplBase.class
+com\mycompany\dao\TipoDocumentoDAO.class
+com\mycompany\daoImpl\util\ReporteStockParametros.class
+com\mycompany\dao\ReporteStockDAO.class
+com\mycompany\daoImpl\AlmacenDAOImpl.class
+com\mycompany\daoImpl\util\ReporteStockParametrosBuilder.class
+com\mycompany\daoImpl\ReporteStockDAOImpl.class
+com\mycompany\daoImpl\util\Columna.class
+com\mycompany\dao\AlmacenDAO.class
+com\mycompany\daoImpl\DAOImplBase$1.class
+com\mycompany\daoImpl\TipoDocumentoDAOImpl.class
+com\mycompany\daoImpl\util\Tipo_Operacion.class
