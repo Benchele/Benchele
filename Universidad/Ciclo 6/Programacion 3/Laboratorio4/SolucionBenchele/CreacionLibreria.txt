@@ -1,0 +1,30 @@
+
+Compilar
+javac .java
+
+Colocarse en el cmd de la Pregunta03
+
+
+----Compilar 
+
+Microsoft Windows [Versión 10.0.26100.4946]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+T:\Laboratorio04 - 2025 - 2\Pregunta03\pe\edu\pucp\generic\utils>SET PATH=C:\Program Files\Apache NetBeans\jdk\bin;%PATH%
+
+T:\Laboratorio04 - 2025 - 2\Pregunta03\pe\edu\pucp\generic\utils>cd T:\Laboratorio04 - 2025 - 2\Pregunta03
+
+T:\Laboratorio04 - 2025 - 2\Pregunta03>javac pe\edu\pucp\gamesoft\model\*.java
+
+T:\Laboratorio04 - 2025 - 2\Pregunta03>javac pe\edu\pucp\generic\utils\*.java
+
+T:\Laboratorio04 - 2025 - 2\Pregunta03>
+
+----Creacion jar
+
+Microsoft Windows [Versión 10.0.26100.4946]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+T:\Laboratorio04 - 2025 - 2\Pregunta03>SET PATH=C:\Program Files\Apache NetBeans\jdk\bin;%PATH%
+
+T:\Laboratorio04 - 2025 - 2\Pregunta03>jar cvf utilitarios.jar pe\edu\pucp\gamesoft\model\*.class pe\edu\pucp\generic\utils\*.class

@@ -1,0 +1,24 @@
+ID: 1
+Título: Zelda: Breath of the Wild
+Fecha de lanzamiento: 2017-02-03
+Clasificación: Teen
+Precio: 59.99
+¿Es multijugador?: false
+Número máximo de jugadores: 1
+--------------------------
+ID: 2
+Título: Mario Kart 8 Deluxe
+Fecha de lanzamiento: 2017-03-28
+Clasificación: Everyone
+Precio: 49.99
+¿Es multijugador?: true
+Número máximo de jugadores: 4
+--------------------------
+ID: 3
+Título: The Last of Us Part II
+Fecha de lanzamiento: 2020-05-19
+Clasificación: Mature
+Precio: 69.99
+¿Es multijugador?: false
+Número máximo de jugadores: 1
+--------------------------

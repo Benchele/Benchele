@@ -1,0 +1,7 @@
+hostname=labs-2025-2-prog3.czq4skuyco6z.us-east-1.rds.amazonaws.com
+username=root
+password=prog31inf30
+puerto=3306
+nombre=laboratorio4
+
+jdbc:mysql://hostname:puerto/nombre
