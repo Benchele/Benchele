@@ -1,3 +1,0 @@
-C:/Users/Lenovo/Documents/zClion/Lab2_Pregunta3_ConCantidad/cmake-build-debug/CMakeFiles/Lab2_Pregunta3_ConCantidad.dir
-C:/Users/Lenovo/Documents/zClion/Lab2_Pregunta3_ConCantidad/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Lenovo/Documents/zClion/Lab2_Pregunta3_ConCantidad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
