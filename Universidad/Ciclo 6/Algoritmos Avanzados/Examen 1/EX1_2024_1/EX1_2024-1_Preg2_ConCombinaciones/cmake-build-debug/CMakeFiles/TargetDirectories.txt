@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/zClion/EX1_2024_1_Preg2ConCombinaciones/cmake-build-debug/CMakeFiles/EX1_2024_1_Preg2ConCombinaciones.dir
+C:/Users/Lenovo/Documents/zClion/EX1_2024_1_Preg2ConCombinaciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/zClion/EX1_2024_1_Preg2ConCombinaciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
