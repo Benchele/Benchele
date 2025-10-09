@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/zClion/EX1_2024-2_Preg3_ParteB/cmake-build-debug/CMakeFiles/EX1_2024_2_Preg3_ParteB.dir
+C:/Users/Lenovo/Documents/zClion/EX1_2024-2_Preg3_ParteB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/zClion/EX1_2024-2_Preg3_ParteB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
