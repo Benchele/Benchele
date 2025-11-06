@@ -1,0 +1,6 @@
+Para la pregunta B solo se tiene que modificar el compara de las ordenes para que ahora considere tambien la prioridad
+
+k.prioridad < g.prioridad or (k.prioridad == g.prioridad and k.cantidadBotellas > g.cantidadBotellas);
+   Si la prioridad es mejor    o 	  Si la prioridad es igual y la cantidad de botellas es mayor
+   
+Todo lo demas se mantiene igual
