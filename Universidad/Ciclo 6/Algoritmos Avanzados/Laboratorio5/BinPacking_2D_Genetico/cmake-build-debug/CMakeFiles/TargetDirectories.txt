@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/zClion/BinPackin_2D_Genetico/cmake-build-debug/CMakeFiles/BinPackin_2D_Genetico.dir
+C:/Users/Lenovo/Documents/zClion/BinPackin_2D_Genetico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/zClion/BinPackin_2D_Genetico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
